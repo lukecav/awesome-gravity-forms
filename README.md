@@ -37,4 +37,5 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms IFrame Add-on](https://github.com/cedaro/gravity-forms-iframe) - Embed a Gravity Form in an iframe on any site.
 * [Gravity Forms Button - An Ajax Form Loader](https://github.com/stevehenty/gravityformsbuttone) - Renders a button which will load a form. Supports multiple forms both in admin and in the front-end.
 * [Gravity Tooltips](https://github.com/norcross/gravity-tooltips) - Adds a custom field to each form element for tooltips.
-* [Gravity Forms Javascript Validation](https://github.com/bhays/gravity-forms-javascript-validation) - Enable front-end javascript validation to Gravity Forms
+* [Gravity Forms Javascript Validation](https://github.com/bhays/gravity-forms-javascript-validation) - Enable front-end javascript validation to Gravity Forms.
+* [Gravity Forms Digest Bulk Reports](https://github.com/soulseekah/Gravity-Forms-Digest-Bulk-Reports) - Generates bulk reports for submitted form entries and e-mails these as a digest to specific addresses.
