@@ -40,3 +40,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Javascript Validation](https://github.com/bhays/gravity-forms-javascript-validation) - Enable front-end javascript validation to Gravity Forms.
 * [Gravity Forms Digest Bulk Reports](https://github.com/soulseekah/Gravity-Forms-Digest-Bulk-Reports) - Generates bulk reports for submitted form entries and e-mails these as a digest to specific addresses.
 * [Gravity Forms: Multiple Form Instances](https://github.com/tyxla/Gravity-Forms-Multiple-Form-Instances) - Allows multiple instances of the same form to be run on a single page when using AJAX.
+* [Gravity Forms Related Fields Add-On](https://wordpress.org/plugins/gravity-forms-related-fields/) - A plugin to dynamically populate Gravity Form fields with form submissions.
