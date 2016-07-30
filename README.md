@@ -41,3 +41,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Digest Bulk Reports](https://github.com/soulseekah/Gravity-Forms-Digest-Bulk-Reports) - Generates bulk reports for submitted form entries and e-mails these as a digest to specific addresses.
 * [Gravity Forms: Multiple Form Instances](https://github.com/tyxla/Gravity-Forms-Multiple-Form-Instances) - Allows multiple instances of the same form to be run on a single page when using AJAX.
 * [Gravity Forms Related Fields Add-On](https://wordpress.org/plugins/gravity-forms-related-fields/) - A plugin to dynamically populate Gravity Form fields with form submissions.
+* [Gravity Forms After Forms](https://github.com/fahrenheit-marketing/gravity-forms-after-forms) - This plugin adds an "after" field to each Gravity Form, for content or code that should be inserted after the closing form tag.
