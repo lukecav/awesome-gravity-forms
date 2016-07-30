@@ -31,3 +31,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Toolbar](https://wordpress.org/plugins/gravity-forms-toolbar/) - This small and lightweight plugin just adds a lot Gravity Forms related resources to your toolbar / admin bar. Also links to all admin settings pages pages of the plugin are included, making the life of form administrators/ developers a lot easier.
 * [Gravity PDF](https://wordpress.org/plugins/gravity-forms-pdf-extended/) - Gravity PDF is the ultimate solution for generating digital PDF documents using Gravity Forms and WordPress.
 * [Drip Email Campaigns + Gravity Forms](https://wordpress.org/plugins/drip-gravity-forms/) - Integrates Gravity Forms with personalized Email Marketing tool Drip.
+* [Gravity Forms CLI Add-On](https://wordpress.org/plugins/gravityformscli/) - The Gravity Forms CLI Add-On allows WP-CLI users to manage forms and entries on the command line.
