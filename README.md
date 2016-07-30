@@ -33,3 +33,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Drip Email Campaigns + Gravity Forms](https://wordpress.org/plugins/drip-gravity-forms/) - Integrates Gravity Forms with personalized Email Marketing tool Drip.
 * [Gravity Forms CLI Add-On](https://wordpress.org/plugins/gravityformscli/) - The Gravity Forms CLI Add-On allows WP-CLI users to manage forms and entries on the command line.
 * [Real Time Validation for Gravity Forms](https://wordpress.org/plugins/real-time-validation-for-gravity-forms/) - This plugin ensures that users gets the feedback on each field as he types even before form is submitted. Specific validation messages shown to user help him quickly rectify the mistakes.
+* [Gravity Forms - Uploads as Attachments](https://wordpress.org/plugins/gf-uploads-as-attachments/) - This plugin adds an option to notifications to add files uploaded to fileupload fields as attachment to that specific notification.
