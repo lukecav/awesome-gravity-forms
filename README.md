@@ -18,3 +18,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [GravityView](https://gravityview.co/) - GravityView is the most simple and powerful way to display Gravity Forms entries on your website.
 * [Gravity Flow](https://gravityflow.io/) - Gravity Flow is a form-based workflow platform for WordPress based on Gravity Forms which allows users to implement complex workflow processes quickly and easily using simple drag and drop configuration.
 * [GF Chart](https://gfchart.com/) - GFChart is an extension to WordPress Gravity Forms. It empowers you to showcase a visual snapshot summary of form submissions - automatically.
+* [WP Raw HTML Form Importer for Gravity Forms](https://wordpress.org/plugins/better-raw-html-form-import-to-gravity-forms/) - Better Raw HTML Form Importer will give you a list of all inputs displayed in a table with editable label, name and value.
