@@ -17,3 +17,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Sticky List](https://wordpress.org/plugins/gravity-forms-sticky-list/) - Sticky List is an add-on for the WordPress plugin Gravity Forms that lets you list and edit entries from the front end.
 * [GravityView](https://gravityview.co/) - GravityView is the most simple and powerful way to display Gravity Forms entries on your website.
 * [Gravity Flow](https://gravityflow.io/) - Gravity Flow is a form-based workflow platform for WordPress based on Gravity Forms which allows users to implement complex workflow processes quickly and easily using simple drag and drop configuration.
+* [GF Chart](https://gfchart.com/) - GFChart is an extension to WordPress Gravity Forms. It empowers you to showcase a visual snapshot summary of form submissions - automatically.
