@@ -43,3 +43,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Related Fields Add-On](https://wordpress.org/plugins/gravity-forms-related-fields/) - A plugin to dynamically populate Gravity Form fields with form submissions.
 * [Gravity Forms After Forms](https://github.com/fahrenheit-marketing/gravity-forms-after-forms) - This plugin adds an "after" field to each Gravity Form, for content or code that should be inserted after the closing form tag.
 * [Gravity Forms ConvertKit Add-On](https://github.com/ConvertKit/convertkit-gravity-forms) - Integrates Gravity Forms with ConvertKit allowing form submissions to be automatically sent to your ConvertKit account.
+* [Automatic Export to CSV for Gravity Forms](https://github.com/alexcavender/Automatic-Export-to-CSV-for-Gravity-Forms) - Export your Gravity Forms entries on a schedule and sends .CSV file to an email address.
