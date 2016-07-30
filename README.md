@@ -36,3 +36,5 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms - Uploads as Attachments](https://wordpress.org/plugins/gf-uploads-as-attachments/) - This plugin adds an option to notifications to add files uploaded to fileupload fields as attachment to that specific notification
 * [Gravity Forms IFrame Add-on](https://github.com/cedaro/gravity-forms-iframe) - Embed a Gravity Form in an iframe on any site.
 * [Gravity Forms Button - An Ajax Form Loader](https://github.com/stevehenty/gravityformsbuttone) - Renders a button which will load a form. Supports multiple forms both in admin and in the front-end.
+* [Gravity Tooltips](https://github.com/norcross/gravity-tooltips) - Adds a custom field to each form element for tooltips.
+* [Gravity Forms Javascript Validation](https://github.com/bhays/gravity-forms-javascript-validation) - Enable front-end javascript validation to Gravity Forms
