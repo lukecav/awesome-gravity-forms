@@ -55,3 +55,5 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Geolocation](https://geomywp.com/add-ons/gravity-forms-geolocation/) - Gravity Forms Geo Fields is a complete Geolocation solution for Gravity Forms plugin. Using Gravity Forms Geo Fields add-on you can add Geolocation to posts created from the front end using Gravity Forms.
 * [Date Picker in List Fields for Gravity Forms](https://wordpress.org/plugins/gravity-forms-list-field-date-picker/) - Allows you to turn a list field column into a 'date' field.
 * [Gravity Forms Remove Entries](https://wordpress.org/plugins/gravity-forms-remove-entries/) - Remove Gravity Form entries by form or date range.
+* [Gravity Fieldset for Gravity Forms](https://wordpress.org/plugins/gravity-fieldset-for-gravity-forms/) - Extends the Gravity Forms plugin - adding an fieldset open and close field that can be used to create 'real' sections.
+* [GravityWP - Count](https://wordpress.org/plugins/gravitywp-count/) - Count, filter and display total number of Gravity Forms entries or the total of a number field for multiple entries.
