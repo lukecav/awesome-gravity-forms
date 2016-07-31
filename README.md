@@ -57,3 +57,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Remove Entries](https://wordpress.org/plugins/gravity-forms-remove-entries/) - Remove Gravity Form entries by form or date range.
 * [Gravity Fieldset for Gravity Forms](https://wordpress.org/plugins/gravity-fieldset-for-gravity-forms/) - Extends the Gravity Forms plugin - adding an fieldset open and close field that can be used to create 'real' sections.
 * [GravityWP - Count](https://wordpress.org/plugins/gravitywp-count/) - Count, filter and display total number of Gravity Forms entries or the total of a number field for multiple entries.
+* [Gravity Forms Disable Autofill Add-On](https://wordpress.org/plugins/gravity-forms-disable-autofill-add-on/developers/) - Disable the browser's ability to autofill forms and input fields on selected Gravity Forms. Ideal for forms with sensitive information and provides extra level of form submission security.
