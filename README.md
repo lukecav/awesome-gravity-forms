@@ -53,3 +53,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [WP Job Manager - Contact Listing](https://wordpress.org/plugins/wp-job-manager-contact-listing/) - Allow sites using the WP Job Manager plugin to contact listings via Gravity Forms plugin.
 * [Affiliate Forms For Gravity Forms](https://affiliatewp.com/addons/affiliate-forms-for-gravity-forms/) - Create the affiliate registration form you need using the power of Gravity Forms.
 * [Gravity Forms Geolocation](https://geomywp.com/add-ons/gravity-forms-geolocation/) - Gravity Forms Geo Fields is a complete Geolocation solution for Gravity Forms plugin. Using Gravity Forms Geo Fields add-on you can add Geolocation to posts created from the front end using Gravity Forms.
+* [Date Picker in List Fields for Gravity Forms](https://wordpress.org/plugins/gravity-forms-list-field-date-picker/) - Allows you to turn a list field column into a 'date' field.
