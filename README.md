@@ -50,3 +50,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [WCAG 2.0 form fields for Gravity Forms](https://wordpress.org/plugins/gravity-forms-wcag-20-form-fields/) - Modifies Gravity Forms form fields and improves validation so that forms meet WCAG 2.0 accessibility requirements.
 * [Gravity Forms - Start progress bar at zero percent](https://wordpress.org/plugins/gravity-forms-start-progress-bar-at-zero-percent/) - Forces the progress bar on multi-page forms to start at zero percent.
 * [Gravity Forms Lock](https://www.download-monitor.com/extensions/gravity-forms/) - The Gravity Forms extension for Download Monitor allows you to require users to fill in a Gravity Forms form before they gain access to a download.
+* [WP Job Manager - Contact Listing](https://wordpress.org/plugins/wp-job-manager-contact-listing/) - Allow sites using the WP Job Manager plugin to contact listings via Gravity Forms plugin.
