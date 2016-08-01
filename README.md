@@ -64,3 +64,5 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Address Autocomplete](https://codecanyon.net/item/gravity-forms-address-autocomplete/16361484) - Used Google Places API to provide autocomplete function to address fields in Gravity Forms.
 * [Gravity Forms to Trello](https://helpforwp.com/downloads/gravity-forms-to-trello/) - As the names suggests this plugin is all about connecting Gravity Forms to Trello.
 * [Gravity Forms Leadsquared Add-On](http://help.leadsquared.com/gravity-forms-leadsquared-add-on/) - Many companies use Gravity forms on their WordPress sites to capture leads. We provide an integration with Gravity form to get these leads into LeadSquared.
+* [Bulk Actions for Gravity Forms](http://jetsloth.com/bulk-actions-for-gravity-forms/) - Duplicate & delete fields, copy them to another form, bulk edit their labels, css classes and required settings quicker than ever before.
+* [Inspect Gravity Forms](https://wordpress.org/plugins/inspect-gravityforms/) - Add-on to Gravity Forms that shows some form info in the forms list.
