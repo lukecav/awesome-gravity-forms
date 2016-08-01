@@ -62,3 +62,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms to Zoho CRM](https://helpforwp.com/downloads/gravity-forms-to-zoho-crm/) - This plugin is an extension to the amazing Gravity Forms Plugin for WordPress. It allows you to send form entries directly from Gravity Forms to your account on Zoho CRM as a lead.
 * [Gravity Forms Sendy Addon](http://amansaini.me/downloads/gravity-forms-sendy-addon/) - Gravity Forms Sendy Addon lets you subscribe users using gravity forms. Create unlimited number of subscribe forms and begin growing your mailing lists.
 * [Gravity Forms Address Autocomplete](https://codecanyon.net/item/gravity-forms-address-autocomplete/16361484) - Used Google Places API to provide autocomplete function to address fields in Gravity Forms.
+* [Gravity Forms to Trello](https://helpforwp.com/downloads/gravity-forms-to-trello/) - As the names suggests this plugin is all about connecting Gravity Forms to Trello.
