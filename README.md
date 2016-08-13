@@ -69,3 +69,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms eWAY](https://wordpress.org/plugins/gravityforms-eway/) - Easily create online payment forms with Gravity Forms and eWAY.
 * [Gravity Forms DPS PxPay](https://wordpress.org/plugins/gravity-forms-dps-pxpay/) - Integrate Gravity Forms with the DPS Payment Express PxPay credit card payment gateway.
 * [Gravity Forms PGP Encryption](https://wp2pgpmail.com/) - Gravity Forms PGP Encryption plugin allows you to receive encrypted emails from your visitors, without the need for them to use any specific software. To achieve this, the plugin only uses your PGP public key. 
+* [Integration for Salsa and Gravity Forms](https://wordpress.org/plugins/integration-for-salsa-and-gravity-forms/) - A Gravity Forms Add-On to feed submission data into the Salsa "Classic" CRM/fundraising/advocacy platform.
