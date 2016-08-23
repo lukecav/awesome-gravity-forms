@@ -75,3 +75,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Enable Gravity Forms Payment Details](https://github.com/richardW8k/enablegfpaymentdetails) - Adds a form setting allowing the editing of payment details on the entry detail page to be enabled for forms not processed by payment add-ons.
 * [Gravity Forms add-on: SharpSpring Forms](https://github.com/Fulcrum-Creatives/gravityforms-sharpspring-forms) - A GravityForms add-on for integrating SharpSpring forms.
 * [Surbma - Divi & Gravity Forms](https://wordpress.org/plugins/surbma-divi-gravity-forms/) - Responsive Divi form styles for Gravity Forms.
+* [Infusionsoft Gravity Forms Add-on](https://wordpress.org/plugins/infusionsoft/) - Integrate the remarkable Gravity Forms plugin with Infusionsoft.
