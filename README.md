@@ -76,3 +76,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms add-on: SharpSpring Forms](https://github.com/Fulcrum-Creatives/gravityforms-sharpspring-forms) - A GravityForms add-on for integrating SharpSpring forms.
 * [Surbma - Divi & Gravity Forms](https://wordpress.org/plugins/surbma-divi-gravity-forms/) - Responsive Divi form styles for Gravity Forms.
 * [Infusionsoft Gravity Forms Add-on](https://wordpress.org/plugins/infusionsoft/) - Integrate the remarkable Gravity Forms plugin with Infusionsoft.
+* [GF Upload to Email Attachment](https://wordpress.org/plugins/gf-upload-to-email-attachment/) - This allows you to create a notification in gravity forms of an email that would send with the files being uploaded by that form as an attachment.
