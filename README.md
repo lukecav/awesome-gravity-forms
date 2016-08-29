@@ -77,3 +77,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Surbma - Divi & Gravity Forms](https://wordpress.org/plugins/surbma-divi-gravity-forms/) - Responsive Divi form styles for Gravity Forms.
 * [Infusionsoft Gravity Forms Add-on](https://wordpress.org/plugins/infusionsoft/) - Integrate the remarkable Gravity Forms plugin with Infusionsoft.
 * [GF Upload to Email Attachment](https://wordpress.org/plugins/gf-upload-to-email-attachment/) - This allows you to create a notification in gravity forms of an email that would send with the files being uploaded by that form as an attachment.
+* [Blue Cube Mighty Gravity Forms](https://wordpress.org/plugins/bluecube-mighty-gravity-forms/) - This plugin adds some additional features to the Gravity Forms plugin: Advanced input validations, Input ID change, Form access control.
