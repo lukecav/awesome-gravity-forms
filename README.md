@@ -84,3 +84,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Lastform](https://codecanyon.net/item/lastform-attractive-form-templates-addon-for-gravity-forms-wordpress-plugin/17870313) - Attractive form templates add-on for Gravity Forms.
 * [Gravity Forms ACF Select Field Choices](https://codecanyon.net/item/gravity-forms-acf-select-field-choices/12252676) - Change the Gravity Forms select choices to the available ACF Select fields of the current post automatically.
 * [Double opt in for Gravity Forms](https://codecanyon.net/item/double-opt-in-for-gravity-forms/17809351) - Email address verification for Gravity Form's sender address.
+* [Gravity Forms: Multiple Form Instances](https://wordpress.org/plugins/gravity-forms-multiple-form-instances/) - Allows multiple instances of the same form to be run on a single page when using AJAX.
