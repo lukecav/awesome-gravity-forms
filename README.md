@@ -86,3 +86,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Double opt in for Gravity Forms](https://codecanyon.net/item/double-opt-in-for-gravity-forms/17809351) - Email address verification for Gravity Form's sender address.
 * [Gravity Forms: Multiple Form Instances](https://wordpress.org/plugins/gravity-forms-multiple-form-instances/) - Allows multiple instances of the same form to be run on a single page when using AJAX.
 * [Gravity Forms Charts Reports](https://wordpress.org/plugins/gf-charts-reports/) - Create amazing HTML5 charts from Gravity Forms submission data with a simple shortcode.
+* [Gravity-Forms jQuery Datatable](https://codecanyon.net/item/gravityforms-jquery-datatable/14257361) - Display your Gravity Forms Entries with the famous jQuery Datatables Plugin.
