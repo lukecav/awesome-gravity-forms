@@ -87,3 +87,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms: Multiple Form Instances](https://wordpress.org/plugins/gravity-forms-multiple-form-instances/) - Allows multiple instances of the same form to be run on a single page when using AJAX.
 * [Gravity Forms Charts Reports](https://wordpress.org/plugins/gf-charts-reports/) - Create amazing HTML5 charts from Gravity Forms submission data with a simple shortcode.
 * [Gravity-Forms jQuery Datatable](https://codecanyon.net/item/gravityforms-jquery-datatable/14257361) - Display your Gravity Forms Entries with the famous jQuery Datatables Plugin.
+* [Gravity Forms: Post Updates](https://wordpress.org/plugins/gravity-forms-post-updates/) - Allows you to use Gravity Forms to update any post on the front-end. If you use the "Gravity Forms + Custom Post Types", you can even update custom post types and use custom taxonomies.
