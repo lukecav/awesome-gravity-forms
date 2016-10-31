@@ -91,4 +91,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [RealtyCandy GravityForms IDX Broker Connector](https://wordpress.org/plugins/realtycandy-gravity-forms-to-idxbroker-connector/) - Use any Gravity Forms form on your site to connect to the IDXBroker backend. You simply put a checkmark and your new leads will automatically go to your IDX Broker account.
 * [Kanban + Gravity Forms](https://wordpress.org/plugins/kanban-gravity-forms/) - This is an add-on plugn for Kanban for WordPress. Allow visitors, users, or clients to create tasks easily from Gravity Forms.
 * [Integration for Salsa and Gravity Forms](https://wordpress.org/plugins/integration-for-salsa-and-gravity-forms/) - A Gravity Forms Add-On to feed submission data into the Salsa "Classic" CRM/fundraising/advocacy platform.
-* [Installments Add-On for Gravity Forms](https://github.com/duplaja/installments-for-stripe-gf) - Installments Add-On WP Plugin for Stripe Gravity Forms.
+* [Installments for Stripe Add-On for Gravity Forms](https://github.com/duplaja/installments-for-stripe-gf) - Installments Add-On WP Plugin for Stripe Gravity Forms.
