@@ -92,3 +92,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Kanban + Gravity Forms](https://wordpress.org/plugins/kanban-gravity-forms/) - This is an add-on plugn for Kanban for WordPress. Allow visitors, users, or clients to create tasks easily from Gravity Forms.
 * [Integration for Salsa and Gravity Forms](https://wordpress.org/plugins/integration-for-salsa-and-gravity-forms/) - A Gravity Forms Add-On to feed submission data into the Salsa "Classic" CRM/fundraising/advocacy platform.
 * [Installments for Gravity Forms and Stripe](https://wordpress.org/plugins/installments-for-stripe-gf/) - Installments for Gravity Forms and Stripe enables you to set up subscription payments that autocancel after x times paid / user per feed.
+* [Image Captcha For Gravity Forms](https://wordpress.org/plugins/image-captcha-for-gravity-forms/) - Adds a Honeypot and a clean image captcha to Gravity Forms. Images are made using Font Awesome's font icon.
