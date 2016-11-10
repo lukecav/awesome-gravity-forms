@@ -93,3 +93,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Integration for Salsa and Gravity Forms](https://wordpress.org/plugins/integration-for-salsa-and-gravity-forms/) - A Gravity Forms Add-On to feed submission data into the Salsa "Classic" CRM/fundraising/advocacy platform.
 * [Installments for Gravity Forms and Stripe](https://wordpress.org/plugins/installments-for-stripe-gf/) - Installments for Gravity Forms and Stripe enables you to set up subscription payments that autocancel after x times paid / user per feed.
 * [Image Captcha For Gravity Forms](https://wordpress.org/plugins/image-captcha-for-gravity-forms/) - Adds a Honeypot and a clean image captcha to Gravity Forms. Images are made using Font Awesome's font icon.
+* [Send Gravity Forms file uploads to Amazon S3](https://gist.github.com/EngageWP/a84b0f66b7efdf49c371) - Send Gravity Forms file uploads to Amazon S3.
