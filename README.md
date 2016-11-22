@@ -95,3 +95,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Image Captcha For Gravity Forms](https://wordpress.org/plugins/image-captcha-for-gravity-forms/) - Adds a Honeypot and a clean image captcha to Gravity Forms. Images are made using Font Awesome's font icon.
 * [Send Gravity Forms file uploads to Amazon S3](https://gist.github.com/EngageWP/a84b0f66b7efdf49c371) - Send Gravity Forms file uploads to Amazon S3.
 * [Import/Export Add-On Feeds for Gravity Forms](https://wordpress.org/plugins/importexport-add-on-feeds-for-gravity-forms/) - Easily export and import Gravity Form add-on feeds.
+* [LeadSources for Gravity Forms Infusionsoft Add-On](https://wordpress.org/plugins/leadsources-for-gravityforms-infusionsoft/) - LeadSources for Gravity Forms Infusionsoft Add-On lets you create and assign LeadSources to your Infusionsoft contacts automatically through Gravity Forms.
