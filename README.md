@@ -96,3 +96,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Send Gravity Forms file uploads to Amazon S3](https://gist.github.com/EngageWP/a84b0f66b7efdf49c371) - Send Gravity Forms file uploads to Amazon S3.
 * [Import/Export Add-On Feeds for Gravity Forms](https://wordpress.org/plugins/importexport-add-on-feeds-for-gravity-forms/) - Easily export and import Gravity Form add-on feeds.
 * [LeadSources for Gravity Forms Infusionsoft Add-On](https://wordpress.org/plugins/leadsources-for-gravityforms-infusionsoft/) - LeadSources for Gravity Forms Infusionsoft Add-On lets you create and assign LeadSources to your Infusionsoft contacts automatically through Gravity Forms.
+* [Shortcodes for Gravity Forms](https://wordpress.org/plugins/shortcodes-for-gravity-forms/) - Shortcodes for Gravity Forms adds a column in form list to display form shortcodes in backend.
