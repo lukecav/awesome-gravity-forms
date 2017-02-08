@@ -101,3 +101,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Date Field Conditional Logic for Gravity Forms](https://wordpress.org/plugins/date-field-conditional-logic-for-gravity-forms/) - Add conditional logic support for Date fields in Gravity Forms.
 * [WP Mautic Form Integrator](https://wordpress.org/plugins/wp-mautic-form-integrator/) - Mautic is a marketing automation software and WP Mautic Form Integrator plugin is a bridge between Mautic and several highly used form plugins.
 * [Simple Range Slider for Gravity Forms](https://wordpress.org/plugins/simple-range-slider-for-gravityforms/) - Adds a simple range slider to the Gravity Forms plugin. Allows users to select a minimum, maximum and steps to the slider.
+* [Gravity Forms Charts Reports](https://wordpress.org/plugins/gf-charts-reports/) - Create amazing HTML5 charts from Gravity Forms submission data with a simple shortcode.
