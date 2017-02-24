@@ -106,3 +106,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Styler for Gravity Forms](https://wordpress.org/plugins/styler-for-gravity-forms/) - Styler for Gravity Forms is an addon for Gravity Forms plugin to help you customize the form styling with Live Preview.
 * [Mailster Gravity Forms](https://wordpress.org/plugins/mailster-gravity-forms/) - Integrates Mailster Newsletter Plugin with Gravity Forms to subscribe users with a Gravity Form. 
 * [GravityWP - Merge Tags](https://wordpress.org/plugins/gravitywp-merge-tags/) - Adds a shortcode to show all the merge tags from a specific Gravity Form.
+* [Gravity Forms - Advanced Conditional Logic](https://gist.github.com/spivurno/79f82d340942fd33fa05c263754f8663) - Allows multiple groups of conditional logic per field.
