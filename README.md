@@ -107,3 +107,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Mailster Gravity Forms](https://wordpress.org/plugins/mailster-gravity-forms/) - Integrates Mailster Newsletter Plugin with Gravity Forms to subscribe users with a Gravity Form. 
 * [GravityWP - Merge Tags](https://wordpress.org/plugins/gravitywp-merge-tags/) - Adds a shortcode to show all the merge tags from a specific Gravity Form.
 * [Gravity Forms - Advanced Conditional Logic](https://gist.github.com/spivurno/79f82d340942fd33fa05c263754f8663) - Allows multiple groups of conditional logic per field.
+* [Gravity Forms Auto Formatter](https://codecanyon.net/item/gravity-forms-auto-formatter/19513275) - Automatic capitalization/case formatting, blacklist validation, link removal, text replacement, HTML tag and PHP code removal, and before/after text appending all per individual field.
