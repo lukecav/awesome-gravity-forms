@@ -108,3 +108,6 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [GravityWP - Merge Tags](https://wordpress.org/plugins/gravitywp-merge-tags/) - Adds a shortcode to show all the merge tags from a specific Gravity Form.
 * [Gravity Forms - Advanced Conditional Logic](https://gist.github.com/spivurno/79f82d340942fd33fa05c263754f8663) - Allows multiple groups of conditional logic per field.
 * [Gravity Forms Auto Formatter](https://codecanyon.net/item/gravity-forms-auto-formatter/19513275) - Automatic capitalization/case formatting, blacklist validation, link removal, text replacement, HTML tag and PHP code removal, and before/after text appending all per individual field.
+* [Easy Passthrough](https://forgravity.com/plugins/easy-passthrough/) - Easily transfer entry values from one Gravity Forms form to another.
+* [Entry Automation](https://forgravity.com/plugins/entry-automation/) - Automate common entry clean up actions including deletion and export.
+* [Live Population](https://forgravity.com/plugins/live-population/) - Use merge tags to populate field values, labels and more without reloading the page.
