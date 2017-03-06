@@ -111,3 +111,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Easy Passthrough](https://forgravity.com/plugins/easy-passthrough/) - Easily transfer entry values from one Gravity Forms form to another.
 * [Entry Automation](https://forgravity.com/plugins/entry-automation/) - Automate common entry clean up actions including deletion and export.
 * [Live Population](https://forgravity.com/plugins/live-population/) - Use merge tags to populate field values, labels and more without reloading the page.
+* [Brilliant Geocoder for Gravity Forms](https://wordpress.org/plugins/brilliant-geocoder-gravity-forms/) - Capture location information in Gravity Forms by geocoding user's input into other form fields.
