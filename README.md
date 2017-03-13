@@ -112,3 +112,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Entry Automation](https://forgravity.com/plugins/entry-automation/) - Automate common entry clean up actions including deletion and export.
 * [Live Population](https://forgravity.com/plugins/live-population/) - Use merge tags to populate field values, labels and more without reloading the page.
 * [Brilliant Geocoder for Gravity Forms](https://wordpress.org/plugins/brilliant-geocoder-gravity-forms/) - Capture location information in Gravity Forms by geocoding user's input into other form fields.
+* [Invisible reCaptcha for WordPress](https://wordpress.org/plugins/invisible-recaptcha/) - Invisible reCaptcha for WordPress is an extremely powerful plugin which integrates the new Invisible reCaptcha by Google with your WordPress site.
