@@ -113,3 +113,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Live Population](https://forgravity.com/plugins/live-population/) - Use merge tags to populate field values, labels and more without reloading the page.
 * [Brilliant Geocoder for Gravity Forms](https://wordpress.org/plugins/brilliant-geocoder-gravity-forms/) - Capture location information in Gravity Forms by geocoding user's input into other form fields.
 * [Invisible reCaptcha for WordPress](https://wordpress.org/plugins/invisible-recaptcha/) - Invisible reCaptcha for WordPress is an extremely powerful plugin which integrates the new Invisible reCaptcha by Google with your WordPress site.
+* [Gravity Forms CSS Themes with Fontawesome and Placeholders](https://wordpress.org/plugins/gravity-forms-css-themes-with-fontawesome-and-placeholder-support/) - The plugin will enable you to use FontAwesome icons, placeholder and cool CSS themes.
