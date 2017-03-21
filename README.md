@@ -117,3 +117,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms MC Unique ID Generator Field](https://wordpress.org/plugins/gf-mc-unique-id-generator-field/) - Gravity Forms MC Unique ID Generator Field plugin adds new field to Gravity Forms fields editor that you can use to generate random unique (site wide) identifiers like user identifiers, order identifiers, passwords, serial numbers and so on.
 * [Multiple Columns for Gravity Forms](https://wordpress.org/plugins/gf-form-multicolumn/) - Add multiple columns (and multiple rows of multiple columns) to Gravity Forms.
 * [List Field Character Limit for Gravity Forms](https://wordpress.org/plugins/list-field-character-limit-for-gravity-forms/) - Allows you to set character limits for list fields.
+* [Gravity Forms Wysija Add-on](https://github.com/bhays/gravity-forms-wysija) - Send your Gravity Forms entries to Wysija.
