@@ -118,3 +118,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Multiple Columns for Gravity Forms](https://wordpress.org/plugins/gf-form-multicolumn/) - Add multiple columns (and multiple rows of multiple columns) to Gravity Forms.
 * [List Field Character Limit for Gravity Forms](https://wordpress.org/plugins/list-field-character-limit-for-gravity-forms/) - Allows you to set character limits for list fields.
 * [Gravity Forms Wysija Add-on](https://github.com/bhays/gravity-forms-wysija) - Send your Gravity Forms entries to Wysija.
+* [Gravity Forms Image Choices](https://jetsloth.com/gravity-forms-image-choices/) - Easily add images as choices for Radio Buttons or Checkboxes fields within Gravity Forms. Supports Survey, Poll, Quiz, Product and Options fields.
