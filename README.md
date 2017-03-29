@@ -120,3 +120,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Wysija Add-on](https://github.com/bhays/gravity-forms-wysija) - Send your Gravity Forms entries to Wysija.
 * [Gravity Forms Image Choices](https://jetsloth.com/gravity-forms-image-choices/) - Easily add images as choices for Radio Buttons or Checkboxes fields within Gravity Forms. Supports Survey, Poll, Quiz, Product and Options fields.
 * [Gravity Forms Utility](https://github.com/wturrell/wt-gravity-forms-utility) - WordPress command-line utlity to resend Gravity Forms emails, view notification settings. (Requires WP-CLI)
+* [Entry Expiration for Gravity Forms](https://wordpress.org/plugins/gravity-forms-entry-expiration/) - Entry Expiration for Gravity Forms allows you to automatically delete Gravity Forms entries older than a defined timeframe.
