@@ -128,3 +128,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Timesheet Field](https://github.com/soulseekah/gravityformstimesheet) - A new type of field that allows timesheets to be submitted via Gravity Forms.
 * [Gravity Forms Advanced File Uploader](https://github.com/pressoholics/prso-gravity-forms-adv-uploader) - Chunked Multiple file uploads, Auto upload of videos to YouTube & Brightcove, Files stored in WP Media Library, Advanced options.
 * [Gravity Forms Sass](https://github.com/thatryan/gravity-forms-sass) — This project aims to offer styling for GForms using Sass and minimal selectors.
+* [PaymentSpring for Gravity Forms](https://wordpress.org/plugins/paymentspring-gravity-forms/) — PaymentSpring is a credit card processing gateway with a developer friendly API. This plugin is officially supported by PaymentSpring and is specifically designed for use with Gravity Forms.
