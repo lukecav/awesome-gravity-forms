@@ -127,3 +127,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Slim Image Cropper for Gravity Forms](https://codecanyon.net/item/slim-image-cropper-for-gravity-forms/19606752) - Slim Image Cropper for Gravity Forms enables your users to attach images to forms. You define the aspect ratio and size of the uploaded images, Slim will make sure all uploaded images fit the set requirements.
 * [Gravity Forms Timesheet Field](https://github.com/soulseekah/gravityformstimesheet) - A new type of field that allows timesheets to be submitted via Gravity Forms.
 * [Gravity Forms Advanced File Uploader](https://github.com/pressoholics/prso-gravity-forms-adv-uploader) - Chunked Multiple file uploads, Auto upload of videos to YouTube & Brightcove, Files stored in WP Media Library, Advanced options.
+* [Gravity Forms Sass](https://github.com/thatryan/gravity-forms-sass) — This project aims to offer styling for GForms using Sass and minimal selectors.
