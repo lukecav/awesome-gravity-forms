@@ -130,3 +130,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Sass](https://github.com/thatryan/gravity-forms-sass) — This project aims to offer styling for GForms using Sass and minimal selectors.
 * [PaymentSpring for Gravity Forms](https://wordpress.org/plugins/paymentspring-gravity-forms/) — PaymentSpring is a credit card processing gateway with a developer friendly API. This plugin is officially supported by PaymentSpring and is specifically designed for use with Gravity Forms.
 * [Gravity Forms IBAN](https://wordpress.org/plugins/gravity-forms-iban/) — This plugin adds an new IBAN mask to the built-in input masks of Gravity Forms.
+* [Gravity Forms Payment Continue](https://wordpress.org/plugins/gf-payment-continue/) — Exposes the PayPal URL needed to complete payments.
