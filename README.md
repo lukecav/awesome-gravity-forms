@@ -132,3 +132,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms IBAN](https://wordpress.org/plugins/gravity-forms-iban/) — This plugin adds an new IBAN mask to the built-in input masks of Gravity Forms.
 * [Gravity Forms Payment Continue](https://wordpress.org/plugins/gf-payment-continue/) — Exposes the PayPal URL needed to complete payments.
 * [Save and Continue Link Recovery for Gravity Forms](https://wordpress.org/plugins/save-and-continue-link-recovery-for-gravity-forms/) — If a Gravity Forms form submitter loses their "Save and Continue" Link, this will help you recover it.
+* [Gravity Forms Intelligence](https://wordpress.org/plugins/gf-intelligence/) — Integrates Intelligence with Gravity Forms enabling easy Google Analytics goal tracking and visitor intelligence gathering.
