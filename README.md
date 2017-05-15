@@ -93,7 +93,7 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Kanban + Gravity Forms](https://wordpress.org/plugins/kanban-gravity-forms/) - This is an add-on plugn for Kanban for WordPress. Allow visitors, users, or clients to create tasks easily from Gravity Forms.
 * [Integration for Salsa and Gravity Forms](https://wordpress.org/plugins/integration-for-salsa-and-gravity-forms/) - A Gravity Forms Add-On to feed submission data into the Salsa "Classic" CRM/fundraising/advocacy platform.
 * [Installments for Gravity Forms and Stripe](https://wordpress.org/plugins/installments-for-stripe-gf/) - Installments for Gravity Forms and Stripe enables you to set up subscription payments that autocancel after x times paid / user per feed.
-* [Image Captcha For Gravity Forms](https://wordpress.org/plugins/image-captcha-for-gravity-forms/) - Adds a Honeypot and a clean image captcha to Gravity Forms. Images are made using Font Awesome's font icon.
+* [Image Captcha For Gravity Forms](https://github.com/ilanco/gravity-forms-multi-currency) - Adds a Honeypot and a clean image captcha to Gravity Forms. Images are made using Font Awesome's font icon.
 * [Send Gravity Forms file uploads to Amazon S3](https://gist.github.com/EngageWP/a84b0f66b7efdf49c371) - Send Gravity Forms file uploads to Amazon S3.
 * [Import/Export Add-On Feeds for Gravity Forms](https://wordpress.org/plugins/importexport-add-on-feeds-for-gravity-forms/) - Easily export and import Gravity Form add-on feeds.
 * [LeadSources for Gravity Forms Infusionsoft Add-On](https://wordpress.org/plugins/leadsources-for-gravityforms-infusionsoft/) - LeadSources for Gravity Forms Infusionsoft Add-On lets you create and assign LeadSources to your Infusionsoft contacts automatically through Gravity Forms.
@@ -133,3 +133,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Payment Continue](https://wordpress.org/plugins/gf-payment-continue/) — Exposes the PayPal URL needed to complete payments.
 * [Save and Continue Link Recovery for Gravity Forms](https://wordpress.org/plugins/save-and-continue-link-recovery-for-gravity-forms/) — If a Gravity Forms form submitter loses their "Save and Continue" Link, this will help you recover it.
 * [Gravity Forms Intelligence](https://wordpress.org/plugins/gf-intelligence/) — Integrates Intelligence with Gravity Forms enabling easy Google Analytics goal tracking and visitor intelligence gathering.
+* [Gravity Forms Multi Currency](https://wordpress.org/plugins/gf-intelligence/) — Per form currency for Gravity Forms.
