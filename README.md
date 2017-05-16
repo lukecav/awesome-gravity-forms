@@ -134,3 +134,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Save and Continue Link Recovery for Gravity Forms](https://wordpress.org/plugins/save-and-continue-link-recovery-for-gravity-forms/) — If a Gravity Forms form submitter loses their "Save and Continue" Link, this will help you recover it.
 * [Gravity Forms Intelligence](https://wordpress.org/plugins/gf-intelligence/) — Integrates Intelligence with Gravity Forms enabling easy Google Analytics goal tracking and visitor intelligence gathering.
 * [Gravity Forms Multi Currency](https://wordpress.org/plugins/gf-intelligence/) — Per form currency for Gravity Forms.
+* [Gravity Forms Heidelpay](https://wordpress.org/plugins/gf-heidelpay/) — Easily create online payment forms with Gravity Forms and heidelpay.
