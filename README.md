@@ -136,5 +136,5 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Multi Currency](https://wordpress.org/plugins/gf-intelligence/) — Per form currency for Gravity Forms.
 * [Gravity Forms Heidelpay](https://wordpress.org/plugins/gf-heidelpay/) — Easily create online payment forms with Gravity Forms and heidelpay.
 * [GF Forms – UK address format](https://wordpress.org/plugins/gf-forms-uk-address-format/) — Add Support for UK address and postcode to Gravity forms, allowing for one click selection of “UK” as an option in countries within Gravity forms.
-* [GravityForms Ready Class Selector Revised](https://github.com/bryanwillis/gravityforms-ready-class-selector-revised) — Easily select a CSS "Ready Class" for your fields within Gravity Forms.
+* [Gravity Forms Ready Class Selector Revised](https://github.com/bryanwillis/gravityforms-ready-class-selector-revised) — Easily select a CSS "Ready Class" for your fields within Gravity Forms.
 * [Gravity Forms Exponent Calculation](https://github.com/michaeldozark/gravity-forms-exponents) —  Adds exponent support for calculations in number fields.
