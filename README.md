@@ -138,3 +138,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [GF Forms – UK address format](https://wordpress.org/plugins/gf-forms-uk-address-format/) — Add Support for UK address and postcode to Gravity forms, allowing for one click selection of “UK” as an option in countries within Gravity forms.
 * [Gravity Forms Ready Class Selector Revised](https://github.com/bryanwillis/gravityforms-ready-class-selector-revised) — Easily select a CSS "Ready Class" for your fields within Gravity Forms.
 * [Gravity Forms Exponent Calculation](https://github.com/michaeldozark/gravity-forms-exponents) —  Adds exponent support for calculations in number fields.
+* [Fillable PDFs for Gravity Forms](https://forgravity.com/plugins/fillable-pdfs/) —  Generate editable PDFs from Gravity Forms form submissions.
