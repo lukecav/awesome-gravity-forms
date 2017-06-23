@@ -139,4 +139,5 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Ready Class Selector Revised](https://github.com/bryanwillis/gravityforms-ready-class-selector-revised) — Easily select a CSS "Ready Class" for your fields within Gravity Forms.
 * [Gravity Forms Exponent Calculation](https://github.com/michaeldozark/gravity-forms-exponents) —  Adds exponent support for calculations in number fields.
 * [Fillable PDFs for Gravity Forms](https://forgravity.com/plugins/fillable-pdfs/) —  Generate editable PDFs from Gravity Forms form submissions.
-* [GravityWP – CSS Selector](https://wordpress.org/plugins/gravitywp-css-selector/) —  GEasily select a Gravity Forms CSS Ready Class for your form fields.
+* [GravityWP – CSS Selector](https://wordpress.org/plugins/gravitywp-css-selector/) —  Easily select a Gravity Forms CSS Ready Class for your form fields.
+* [Gravity Forms: Autocomplete Fields](https://github.com/growella/gravityforms-autocomplete-fields) —  Configure autocomplete attributes on Gravity Forms' inputs.
