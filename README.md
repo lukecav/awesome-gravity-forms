@@ -141,3 +141,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Fillable PDFs for Gravity Forms](https://forgravity.com/plugins/fillable-pdfs/) —  Generate editable PDFs from Gravity Forms form submissions.
 * [GravityWP – CSS Selector](https://wordpress.org/plugins/gravitywp-css-selector/) —  Easily select a Gravity Forms CSS Ready Class for your form fields.
 * [Gravity Forms: Autocomplete Fields](https://github.com/growella/gravityforms-autocomplete-fields) —  Configure autocomplete attributes on Gravity Forms' inputs.
+* [MaxiCharts Gravity View Add-on](https://wordpress.org/plugins/maxicharts-gravity-view-add-on/) —  Extends MCharts : Add the possibility to filter gf entries on Gravity View approval status.
