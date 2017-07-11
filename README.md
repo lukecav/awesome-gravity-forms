@@ -144,4 +144,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [MaxiCharts Gravity View Add-on](https://wordpress.org/plugins/maxicharts-gravity-view-add-on/) —  Extends MCharts : Add the possibility to filter gf entries on Gravity View approval status.
 * [Táve Gravity Forms Integration](https://wordpress.org/plugins/tave-integration-using-gravity-forms/) —  Integrate Gravity Forms with TÃ¡ve Studio Manager.
 * [Gravity Form Locator](https://wordpress.org/plugins/gf-form-locator/) —  Simple add-on for Gravity Forms that scans your website in the background and shows a list of each form published with the page or post that it is published on.
-* [Gravity Forms Date & Time Picker]https://wpgurus.org/products/gravity-forms-date-time-picker/) — Easily Add Advanced Date & Time Picker to your Gravity Forms.
+* [Gravity Forms Date & Time Picker](https://wpgurus.org/products/gravity-forms-date-time-picker/) — Easily Add Advanced Date & Time Picker to your Gravity Forms.
