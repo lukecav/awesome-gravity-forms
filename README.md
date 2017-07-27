@@ -148,3 +148,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Date & Time Picker](https://wpgurus.org/products/gravity-forms-date-time-picker/) — Easily Add Advanced Date & Time Picker to your Gravity Forms.
 * [MaxiCharts Gravity Forms Source add-on](https://wordpress.org/plugins/maxicharts-gravity-forms-source-add-on/) — Extend MCharts : Add the possibility to graph Gravity Forms submitted data.
 * [Gravity Forms – Edit Entries](https://wordpress.org/plugins/gf-edit-entries/) — This plugin lets you edit the entries for the forms created with Gravity Forms.
+* [Gravity Asana Sync](https://github.com/norcross/gravity-asana-sync) — Sends details of a form into Asana.
