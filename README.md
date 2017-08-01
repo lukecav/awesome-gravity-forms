@@ -150,3 +150,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms – Edit Entries](https://wordpress.org/plugins/gf-edit-entries/) — This plugin lets you edit the entries for the forms created with Gravity Forms.
 * [Gravity Asana Sync](https://github.com/norcross/gravity-asana-sync) — Sends details of a form into Asana.
 * [GamiPress – Gravity Forms integration](https://wordpress.org/plugins/gamipress-gravity-forms-integration/) — Connect GamiPress with Gravity Forms.
+* [Wider Gravity Forms Stop Entries](https://wordpress.org/plugins/wider-gravity-forms-stop-entries/) — Help your websites comply with the GDPR and general privacy - selectively stops individual Gravity Forms entries being stored so potentially sensitive data is not stored on your web server.
