@@ -152,3 +152,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [GamiPress – Gravity Forms integration](https://wordpress.org/plugins/gamipress-gravity-forms-integration/) — Connect GamiPress with Gravity Forms.
 * [Wider Gravity Forms Stop Entries](https://wordpress.org/plugins/wider-gravity-forms-stop-entries/) — Help your websites comply with the GDPR and general privacy - selectively stops individual Gravity Forms entries being stored so potentially sensitive data is not stored on your web server.
 * [Gutenberg Gravity Form Selector](https://github.com/lucasstark/gutenberg-gravityforms) — Adds a Gravity Forms block to the Gutenberg editor.
+* [Gravity Forms + Wufoo](https://wordpres.s.org/plugins/gf-wufoo-forms/) — A simple plugin that allows you to pass data to Wufoo forms from your Gravity Form
