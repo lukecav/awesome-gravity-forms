@@ -154,3 +154,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gutenberg Gravity Form Selector](https://github.com/lucasstark/gutenberg-gravityforms) — Adds a Gravity Forms block to the Gutenberg editor.
 * [Gravity Forms + Wufoo](https://wordpres.s.org/plugins/gf-wufoo-forms/) — A simple plugin that allows you to pass data to Wufoo forms from your Gravity Form.
 * [Customer.io Gravity Forms Add-on](https://wordpress.org/plugins/cio-gravity-forms-add-on/) — Easily add customers to customer.io when users submit a Gravity Form.
+* [Gravity Forms Entries in Excel](https://wordpress.org/plugins/gf-entries-in-excel/) — Download all entries for a form using a unique and hashed URL.
