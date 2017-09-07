@@ -155,3 +155,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Customer.io Gravity Forms Add-on](https://wordpress.org/plugins/cio-gravity-forms-add-on/) — Easily add customers to customer.io when users submit a Gravity Form.
 * [Gravity Forms Entries in Excel](https://wordpress.org/plugins/gf-entries-in-excel/) — Download all entries for a form using a unique and hashed URL.
 * [S3 CORS Uploader for Gravity Forms](https://brilliantplugins.com/downloads/s3-cors-uploader-for-gravity-forms/) — Automatically upload files from Gravity Forms directly to AWS S3 to the bucket of your choice (no PHP proxy or server bandwidth required).
+* [Send Gravity Forms File Uploads to Amazon S3](https://gist.github.com/renventura/a84b0f66b7efdf49c371) — This snippet will send files uploaded to a Gravity Forms form to your Amazon S3 account.
