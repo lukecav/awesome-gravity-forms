@@ -154,3 +154,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms + Wufoo](https://wordpres.s.org/plugins/gf-wufoo-forms/) — A simple plugin that allows you to pass data to Wufoo forms from your Gravity Form.
 * [Customer.io Gravity Forms Add-on](https://wordpress.org/plugins/cio-gravity-forms-add-on/) — Easily add customers to customer.io when users submit a Gravity Form.
 * [Gravity Forms Entries in Excel](https://wordpress.org/plugins/gf-entries-in-excel/) — Download all entries for a form using a unique and hashed URL.
+* [S3 CORS Uploader for Gravity Forms](https://brilliantplugins.com/downloads/s3-cors-uploader-for-gravity-forms/) — Automatically upload files from Gravity Forms directly to AWS S3 to the bucket of your choice (no PHP proxy or server bandwidth required).
