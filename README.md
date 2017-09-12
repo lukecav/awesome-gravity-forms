@@ -157,4 +157,5 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [S3 CORS Uploader for Gravity Forms](https://brilliantplugins.com/downloads/s3-cors-uploader-for-gravity-forms/) — Automatically upload files from Gravity Forms directly to AWS S3 to the bucket of your choice (no PHP proxy or server bandwidth required).
 * [Send Gravity Forms File Uploads to Amazon S3](https://gist.github.com/renventura/a84b0f66b7efdf49c371) — This snippet will send files uploaded to a Gravity Forms form to your Amazon S3 account.
 * [Drop Down Options in List Fields for Gravity Forms](https://wordpress.org/plugins/gravity-forms-list-field-select-drop-down/) — Gives the option of adding a drop down (select) list to a list field column.
-* [Gravity Forms Salesmate Add-On](https://wordpress.org/plugins/gf-salesmate-add-on/) — A gravity add-on for salemate.io
+* [Gravity Forms Salesmate Add-On](https://wordpress.org/plugins/gf-salesmate-add-on/) — A gravity add-on for salemate.io.
+* [Gravity Forms Eloqua](https://github.com/solepixel/gravityforms-eloqua) — Integrate Eloqua into Gravity Forms.
