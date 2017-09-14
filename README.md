@@ -159,3 +159,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Drop Down Options in List Fields for Gravity Forms](https://wordpress.org/plugins/gravity-forms-list-field-select-drop-down/) — Gives the option of adding a drop down (select) list to a list field column.
 * [Gravity Forms Salesmate Add-On](https://wordpress.org/plugins/gf-salesmate-add-on/) — A gravity add-on for salemate.io.
 * [Gravity Forms Eloqua](https://github.com/solepixel/gravityforms-eloqua) — Integrate Eloqua into Gravity Forms.
+* [Add-on Gravity Forms – MailPoet 3](https://wordpress.org/plugins/add-on-gravity-forms-mailpoet/) — Add a MailPoet 3 signup field to your Gravity Forms.
