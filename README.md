@@ -160,3 +160,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Salesmate Add-On](https://wordpress.org/plugins/gf-salesmate-add-on/) — A gravity add-on for salemate.io.
 * [Gravity Forms Eloqua](https://github.com/solepixel/gravityforms-eloqua) — Integrate Eloqua into Gravity Forms.
 * [Add-on Gravity Forms – MailPoet 3](https://wordpress.org/plugins/add-on-gravity-forms-mailpoet/) — Add a MailPoet 3 signup field to your Gravity Forms.
+* [Gravity Forms Total Amount Shortcode](https://wordpress.org/plugins/gf-total-amount-shortcode/) — A simple shortcode that displays the total filed value from any Gravity Form.
