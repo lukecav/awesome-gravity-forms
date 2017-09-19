@@ -162,3 +162,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Add-on Gravity Forms – MailPoet 3](https://wordpress.org/plugins/add-on-gravity-forms-mailpoet/) — Add a MailPoet 3 signup field to your Gravity Forms.
 * [Gravity Forms Total Amount Shortcode](https://wordpress.org/plugins/gf-total-amount-shortcode/) — A simple shortcode that displays the total filed value from any Gravity Form.
 * [Gravity Forms Prevent Duplicates](https://wordpress.org/plugins/gf-prevent-duplicates/) — Prevent duplicate submissions for all GF forms on your site.
+* [Events Calendar Gravity Forms Registration](https://wordpress.org/plugins/ecgf-registration/) — Use Gravity Forms to handle registration for The Events Calendar events.
