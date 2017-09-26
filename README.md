@@ -163,3 +163,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Total Amount Shortcode](https://wordpress.org/plugins/gf-total-amount-shortcode/) — A simple shortcode that displays the total filed value from any Gravity Form.
 * [Gravity Forms Prevent Duplicates](https://wordpress.org/plugins/gf-prevent-duplicates/) — Prevent duplicate submissions for all GF forms on your site.
 * [Events Calendar Gravity Forms Registration](https://wordpress.org/plugins/ecgf-registration/) — Use Gravity Forms to handle registration for The Events Calendar events.
+* [Integration for Engaging Networks and Gravity Forms](https://wordpress.org/plugins/gf-engaging-networks-add-on/) - Integrates Gravity Forms with the Engaging Networks CRM, allowing form submissions to automatically create/update constituents.
