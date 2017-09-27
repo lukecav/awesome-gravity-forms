@@ -164,3 +164,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Prevent Duplicates](https://wordpress.org/plugins/gf-prevent-duplicates/) — Prevent duplicate submissions for all GF forms on your site.
 * [Events Calendar Gravity Forms Registration](https://wordpress.org/plugins/ecgf-registration/) — Use Gravity Forms to handle registration for The Events Calendar events.
 * [Integration for Engaging Networks and Gravity Forms](https://wordpress.org/plugins/gf-engaging-networks-add-on/) - Integrates Gravity Forms with the Engaging Networks CRM, allowing form submissions to automatically create/update constituents.
+* [Gravity Forms: Multiple Form Instances](https://wordpress.org/plugins/gravity-forms-multiple-form-instances/) - Allows multiple instances of the same form to be run on a single page when using AJAX.
