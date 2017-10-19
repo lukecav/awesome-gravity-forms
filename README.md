@@ -166,3 +166,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Integration for Engaging Networks and Gravity Forms](https://wordpress.org/plugins/gf-engaging-networks-add-on/) - Integrates Gravity Forms with the Engaging Networks CRM, allowing form submissions to automatically create/update constituents.
 * [Gravity Forms: Multiple Form Instances](https://wordpress.org/plugins/gravity-forms-multiple-form-instances/) - Allows multiple instances of the same form to be run on a single page when using AJAX.
 * [Integrate Gravity Forms + Polylang](https://github.com/pdme/gravity-forms-polylang) - Add form titles, descriptions, field labels, etc, to Polylang string translations.
+* [Block IPs for Gravity forms](https://github.com/pdme/gravity-forms-polylang) - Block IPs in your Gravity Forms.
