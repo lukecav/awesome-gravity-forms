@@ -168,3 +168,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Integrate Gravity Forms + Polylang](https://github.com/pdme/gravity-forms-polylang) - Add form titles, descriptions, field labels, etc, to Polylang string translations.
 * [Block IPs for Gravity forms](https://wordpress.org/plugins/gf-block-ips/) - Block IPs in your Gravity Forms.
 * [Gravity Forms integration for wpDataTables](https://codecanyon.net/item/gravity-forms-integration-for-wpdatatables/20549439) - This plugin is an add-on that builds a bridge between the wpDataTables plugin which renders awesome interactive responsive tables and charts and Gravity Forms advanced form builder.
+* [GF Custom Style](https://wordpress.org/plugins/gf-custom-style/) - Customize gravity forms plugin, colors, inputs... style.
