@@ -141,11 +141,14 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Fillable PDFs for Gravity Forms](https://forgravity.com/plugins/fillable-pdfs/) —  Generate editable PDFs from Gravity Forms form submissions.
 * [GravityWP – CSS Selector](https://wordpress.org/plugins/gravitywp-css-selector/) —  Easily select a Gravity Forms CSS Ready Class for your form fields.
 * [Gravity Forms: Autocomplete Fields](https://github.com/growella/gravityforms-autocomplete-fields) —  Configure autocomplete attributes on Gravity Forms' inputs.
-* [MaxiCharts Gravity View Add-on](https://wordpress.org/plugins/maxicharts-gravity-view-add-on/) —  Extends MCharts : Add the possibility to filter gf entries on Gravity View approval status.
 * [Táve Gravity Forms Integration](https://wordpress.org/plugins/tave-integration-using-gravity-forms/) —  Integrate Gravity Forms with TÃ¡ve Studio Manager.
 * [Gravity Form Locator](https://wordpress.org/plugins/gf-form-locator/) —  Simple add-on for Gravity Forms that scans your website in the background and shows a list of each form published with the page or post that it is published on.
 * [Gravity Forms Date & Time Picker](https://wpgurus.org/products/gravity-forms-date-time-picker/) — Easily Add Advanced Date & Time Picker to your Gravity Forms.
+* [MaxiCharts](https://wordpress.org/plugins/maxicharts/) —  Create beautiful interactive HTML5 charts from Gravity Forms / CSV into your posts with a simple shortcode. Uses chart.js.
 * [MaxiCharts Gravity Forms Source add-on](https://wordpress.org/plugins/maxicharts-gravity-forms-source-add-on/) — Extend MCharts : Add the possibility to graph Gravity Forms submitted data.
+* [MaxiCharts CSV Source add-on](https://wordpress.org/plugins/maxicharts-csv-source-add-on/) —  Extend MaxiCharts : Add the possibility to show beautiful Chartjs graphs from CSV files imported in WordPress.
+* [MaxiCharts Gravity View Add-on](https://wordpress.org/plugins/maxicharts-gravity-view-add-on/) —  Extends MCharts : Add the possibility to filter gf entries on Gravity View approval status.
+* [MaxiCharts Query Builder Add-on](https://wordpress.org/plugins/maxicharts-query-builder-add-on/) —  Extends MaxiCharts : Add the possibility to build complex query and update chart dynamically.
 * [Gravity Forms – Edit Entries](https://wordpress.org/plugins/gf-edit-entries/) — This plugin lets you edit the entries for the forms created with Gravity Forms.
 * [Gravity Asana Sync](https://github.com/norcross/gravity-asana-sync) — Sends details of a form into Asana.
 * [GamiPress – Gravity Forms integration](https://wordpress.org/plugins/gamipress-gravity-forms-integration/) — Connect GamiPress with Gravity Forms.
