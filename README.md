@@ -172,3 +172,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Block IPs for Gravity forms](https://wordpress.org/plugins/gf-block-ips/) - Block IPs in your Gravity Forms.
 * [Gravity Forms integration for wpDataTables](https://codecanyon.net/item/gravity-forms-integration-for-wpdatatables/20549439) - This plugin is an add-on that builds a bridge between the wpDataTables plugin which renders awesome interactive responsive tables and charts and Gravity Forms advanced form builder.
 * [GF Custom Style](https://wordpress.org/plugins/gf-custom-style/) - Customize gravity forms plugin, colors, inputs... style.
+* [Gravity Forms - amoCRM - Integration](https://codecanyon.net/item/gravity-forms-amocrm-lead-generation/20483165) - Gravity Forms amoCRM Integration is a amoCRM leads generator plugin for WordPress that makes it really simple to send your Gravity Forms forms directly to your amoCRM account.
