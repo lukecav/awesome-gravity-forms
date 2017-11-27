@@ -175,3 +175,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms - amoCRM - Integration](https://codecanyon.net/item/gravity-forms-amocrm-lead-generation/20483165) - Gravity Forms amoCRM Integration is a amoCRM leads generator plugin for WordPress that makes it really simple to send your Gravity Forms forms directly to your amoCRM account.
 * [Gravity Forms Add-on AutoExport Entries to CSV – Basic](https://wordpress.org/plugins/gf-add-on-autoexport-entries-to-csv/) - Automatically export a CSV report of form entries attached and send it to your email.
 * [MK GF WC Country](https://wordpress.org/plugins/mk-gf-wc-country/) - Make Gravity Forms use Woocommerce's list of countries.
+* [Connector GravityForms and MailerLite](https://wordpress.org/plugins/connector-gravityforms-mailerlite/) - Connects GravityForms with MailerLite.
