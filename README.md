@@ -177,3 +177,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [MK GF WC Country](https://wordpress.org/plugins/mk-gf-wc-country/) - Make Gravity Forms use Woocommerce's list of countries.
 * [Connector GravityForms and MailerLite](https://wordpress.org/plugins/connector-gravityforms-mailerlite/) - Connects GravityForms with MailerLite.
 * [Simple Chase E-xact for Gravity Forms](https://wordpress.org/plugins/gf-chase-exact/) - Integrates Gravity Forms with Chase E-xact Hosted Payments.
+* [Source Input for Gravity Forms](https://wordpress.org/plugins/source-input-for-gravity-forms/) - Source Input for Gravity Forms.
