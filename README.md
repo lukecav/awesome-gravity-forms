@@ -178,3 +178,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Connector GravityForms and MailerLite](https://wordpress.org/plugins/connector-gravityforms-mailerlite/) - Connects GravityForms with MailerLite.
 * [Simple Chase E-xact for Gravity Forms](https://wordpress.org/plugins/gf-chase-exact/) - Integrates Gravity Forms with Chase E-xact Hosted Payments.
 * [Source Input for Gravity Forms](https://wordpress.org/plugins/source-input-for-gravity-forms/) - Source Input for Gravity Forms.
+* [Remove Reference to Zip Code in Gravity Forms](https://wordpress.org/plugins/remove-reference-to-zip-code/) - Changes "Zip Code / Post Code" to just "Postcode".
