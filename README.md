@@ -180,3 +180,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Source Input for Gravity Forms](https://wordpress.org/plugins/source-input-for-gravity-forms/) - Source Input for Gravity Forms.
 * [Remove Reference to Zip Code in Gravity Forms](https://wordpress.org/plugins/remove-reference-to-zip-code/) - Changes "Zip Code / Post Code" to just "Postcode".
 * [Agile CRM Gravity Forms](https://wordpress.org/plugins/agile-crm-gravity-forms/) - Agile CRM integration plugin for gravity forms. Sync form entries to Agile easily.
+* [Gravity Forms Klaviyo](https://wordpress.org/plugins/gf-klaviyo-add-on/) - Integrates Gravity Forms with Klaviyo allowing form submissions to be automatically sent to your Klaviyo account.
