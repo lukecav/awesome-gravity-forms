@@ -179,3 +179,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Simple Chase E-xact for Gravity Forms](https://wordpress.org/plugins/gf-chase-exact/) - Integrates Gravity Forms with Chase E-xact Hosted Payments.
 * [Source Input for Gravity Forms](https://wordpress.org/plugins/source-input-for-gravity-forms/) - Source Input for Gravity Forms.
 * [Remove Reference to Zip Code in Gravity Forms](https://wordpress.org/plugins/remove-reference-to-zip-code/) - Changes "Zip Code / Post Code" to just "Postcode".
+* [Agile CRM Gravity Forms](https://wordpress.org/plugins/agile-crm-gravity-forms/) - Agile CRM integration plugin for gravity forms. Sync form entries to Agile easily.
