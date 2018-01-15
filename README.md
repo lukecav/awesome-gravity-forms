@@ -182,3 +182,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Agile CRM Gravity Forms](https://wordpress.org/plugins/agile-crm-gravity-forms/) - Agile CRM integration plugin for gravity forms. Sync form entries to Agile easily.
 * [Gravity Forms Klaviyo](https://wordpress.org/plugins/gf-klaviyo-add-on/) - Integrates Gravity Forms with Klaviyo allowing form submissions to be automatically sent to your Klaviyo account.
 * [Hide Gravity Form Labels](https://wordpress.org/plugins/hide-gravity-form-labels/) - Adds options to hide labels and and sub-labels on Gravity Forms fields.
+* [Gravity Add-on Salesforce](https://wordpress.org/plugins/gf-add-on-salesforce/) - Plugin Gravity form Add-on for SalesForce.
