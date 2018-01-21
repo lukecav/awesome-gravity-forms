@@ -184,3 +184,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Hide Gravity Form Labels](https://wordpress.org/plugins/hide-gravity-form-labels/) - Adds options to hide labels and and sub-labels on Gravity Forms fields.
 * [Gravity Add-on Salesforce](https://wordpress.org/plugins/gf-add-on-salesforce/) - Plugin Gravity form Add-on for SalesForce.
 * [Pipwave Gravity Forms](https://wordpress.org/plugins/pipwave-gravity-forms/) - Simple, reliable, and cost-effective way to accept payments online.
+* [Sprout Invoices + Gravity Forms](https://wordpress.org/plugins/sprout-invoices-gravity-forms/) - Allows for a form submitted by Gravity Forms to create all necessary records to send your client an invoice or estimate.
