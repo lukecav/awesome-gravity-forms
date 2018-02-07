@@ -188,3 +188,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Sprout Invoices + Gravity Forms](https://wordpress.org/plugins/sprout-invoices-gravity-forms/) - Allows for a form submitted by Gravity Forms to create all necessary records to send your client an invoice or estimate.
 * [Gravity Forms: Autofill List Row Count](https://github.com/uamv/gravityforms-autofill-list-row-count) - Adds option for autofilling the number of rows in a list to another field within a Gravity Form.
 * [Gravity Forms: Custom Entry Limit](https://github.com/uamv/gravityforms-custom-entry-limit) - Adds options for custom limiting of number of entries to a Gravity Form.
+* [Gutenberg block for Gravity Forms](https://wordpress.org/plugins/gf-gutenberg/) - Adds simple Gravity Forms selector in Gutenberg.
