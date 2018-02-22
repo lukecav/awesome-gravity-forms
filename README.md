@@ -189,3 +189,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms: Autofill List Row Count](https://github.com/uamv/gravityforms-autofill-list-row-count) - Adds option for autofilling the number of rows in a list to another field within a Gravity Form.
 * [Gravity Forms: Custom Entry Limit](https://github.com/uamv/gravityforms-custom-entry-limit) - Adds options for custom limiting of number of entries to a Gravity Form.
 * [Gutenberg block for Gravity Forms](https://wordpress.org/plugins/gf-gutenberg/) - Adds simple Gravity Forms selector in Gutenberg.
+* [Gravity Forms MIN/MAX Calculations](https://github.com/snaptortoise/gravity-forms-minmax) - Adds MIN and MAX functions for Gravity Forms number field calculations.
