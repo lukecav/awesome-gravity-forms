@@ -190,3 +190,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms: Custom Entry Limit](https://github.com/uamv/gravityforms-custom-entry-limit) - Adds options for custom limiting of number of entries to a Gravity Form.
 * [Gutenberg block for Gravity Forms](https://wordpress.org/plugins/gf-gutenberg/) - Adds simple Gravity Forms selector in Gutenberg.
 * [Gravity Forms MIN/MAX Calculations](https://github.com/snaptortoise/gravity-forms-minmax) - Adds MIN and MAX functions for Gravity Forms number field calculations.
+* [Gravity Forms Create User & Auto login](https://wordpress.org/plugins/gf-create-user-auto-login-free/) - his plugin creates a new user and log in that user when a form is submitted with Gravity Forms.
