@@ -192,3 +192,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms MIN/MAX Calculations](https://github.com/snaptortoise/gravity-forms-minmax) - Adds MIN and MAX functions for Gravity Forms number field calculations.
 * [Gravity Forms Create User & Auto login](https://wordpress.org/plugins/gf-create-user-auto-login-free/) - This plugin creates a new user and log in that user when a form is submitted with Gravity Forms.
 * [SV Gravity Forms Enhancer](https://wordpress.org/plugins/sv-gravity-forms-enhancer/) - Fixes several issues in Gravity Forms.
+* [Gravity Forms Borgun Add-On](https://wordpress.org/plugins/gf-borgun-add-on/) - Take payments in your gravity forms using the Borgun Gateway.
