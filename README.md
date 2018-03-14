@@ -193,3 +193,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Create User & Auto login](https://wordpress.org/plugins/gf-create-user-auto-login-free/) - This plugin creates a new user and log in that user when a form is submitted with Gravity Forms.
 * [SV Gravity Forms Enhancer](https://wordpress.org/plugins/sv-gravity-forms-enhancer/) - Fixes several issues in Gravity Forms.
 * [Gravity Forms Borgun Add-On](https://wordpress.org/plugins/gf-borgun-add-on/) - Take payments in your gravity forms using the Borgun Gateway.
+* [Gravity Forms Intercom](https://github.com/skyverge/gravity-forms-intercom) - Lets you create new Intercom conversations from Gravity Forms submissions.
