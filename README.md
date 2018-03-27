@@ -195,3 +195,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Borgun Add-On](https://wordpress.org/plugins/gf-borgun-add-on/) - Take payments in your gravity forms using the Borgun Gateway.
 * [Gravity Forms Intercom](https://github.com/skyverge/gravity-forms-intercom) - Lets you create new Intercom conversations from Gravity Forms submissions.
 * [Unbounce To Gravity Form (U2GF)](https://wordpress.org/plugins/hkinfosoft-unbounce-to-gravity-form-integration/) - Fetch leads from Unbounce landing pages to Gravity forms.
+* [Gravity Forms FreshDesk CRM Perks](https://wordpress.org/plugins/gf-freshdesk/) - Integrates Gravity Forms with Freshdesk allowing form submissions to be automatically sent to your Freshdesk account.
