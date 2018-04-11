@@ -197,3 +197,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Unbounce To Gravity Form (U2GF)](https://wordpress.org/plugins/hkinfosoft-unbounce-to-gravity-form-integration/) - Fetch leads from Unbounce landing pages to Gravity forms.
 * [Gravity Forms FreshDesk CRM Perks](https://wordpress.org/plugins/gf-freshdesk/) - Integrates Gravity Forms with Freshdesk allowing form submissions to be automatically sent to your Freshdesk account.
 * [Vision6 Gravity Forms Add-On](https://wordpress.org/plugins/vision6-gravity-forms/) - Integrates Gravity Forms with Vision6, allowing form submissions to be automatically sent to your Vision6 account.
+* [Gravity Forms Data Purge](https://wordpress.org/plugins/gf-data-purge/) - Adds the ability to purge gravity form entries after a certain amount of time to comply with GDPR.
