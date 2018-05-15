@@ -200,3 +200,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Data Purge](https://wordpress.org/plugins/gf-data-purge/) - Adds the ability to purge gravity form entries after a certain amount of time to comply with GDPR.
 * [Pay with Square in Gravity Forms](https://apiexperts.io/solutions/square-for-gravity-forms/) - Gravity Form Square plugin is a WordPress plugin that allows users to pay from their gravity form using Square payment gateway.
 * [Gravity Forms Pushover Add-On](https://wordpress.org/plugins/gf-pushover-add-on/) - Get Gravity Forms submissions as instant push notifications on your phone or tablet with Pushover.
+* [Surbma – GDPR Proof Gravity Forms](https://wordpress.org/plugins/surbma-gdpr-proof-gravity-forms/) - Gravity Forms add-on to help meet GDPR compliance.
