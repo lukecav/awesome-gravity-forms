@@ -201,3 +201,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Pay with Square in Gravity Forms](https://apiexperts.io/solutions/square-for-gravity-forms/) - Gravity Form Square plugin is a WordPress plugin that allows users to pay from their gravity form using Square payment gateway.
 * [Gravity Forms Pushover Add-On](https://wordpress.org/plugins/gf-pushover-add-on/) - Get Gravity Forms submissions as instant push notifications on your phone or tablet with Pushover.
 * [Surbma – GDPR Proof Gravity Forms](https://wordpress.org/plugins/surbma-gdpr-proof-gravity-forms/) - Gravity Forms add-on to help meet GDPR compliance.
+* [Profiler Donations for Gravity Forms](https://wordpress.org/plugins/profiler-donations-gravityforms/) - Integrates Gravity Forms with Profiler, enabling donation data to be sent directly to Profiler.
