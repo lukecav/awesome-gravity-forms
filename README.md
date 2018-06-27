@@ -203,3 +203,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Surbma – GDPR Proof Gravity Forms](https://wordpress.org/plugins/surbma-gdpr-proof-gravity-forms/) - Gravity Forms add-on to help meet GDPR compliance.
 * [Profiler Donations for Gravity Forms](https://wordpress.org/plugins/profiler-donations-gravityforms/) - Integrates Gravity Forms with Profiler, enabling donation data to be sent directly to Profiler.
 * [Gravity Forms Privacy AddOn](https://wordpress.org/plugins/gf-privacy-addon/) - Plugin adding in Gravity form data to the Personal data section of WordPress.
+* [Gravity Forms Auto Complete](https://codecanyon.net/item/gravity-forms-autocomplete/19220825) - This plugin is an add-on for Gravity Forms that enables a field autocomplete feature. 
