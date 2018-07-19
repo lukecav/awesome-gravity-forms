@@ -11,6 +11,7 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Postmatic for Gravity Forms](https://wordpress.org/plugins/postmatic-for-gravity-forms/) - This simple plugin allows individuals to subscribe to Postmatic feeds using Gravity Forms.
 * [Gravity Forms Encryptorator](https://gist.github.com/willmot/4155391) - Encrypt all Gravity Forms data on the way into the database using openssl public encryption, data can only be decrypted with the associated private key.
 * [Gravity Forms + Typeform Addon](https://wordpress.org/plugins/typeform-addon-for-gravity-forms/) - Turn gravity forms into beautiful, mobile-friendly typeforms.
+* [Gravity Forms + Accelerated Mobile Pages Addon](https://ampforwp.com/gravity-forms/) - Add Automatic Support for gravity forms for Accelerated Mobile Pages aka AMP Pages.
 * [Automate Slack Invite Gravityforms](https://wordpress.org/plugins/automate-slack-invite-gravityforms/) - With this plugin, you can send auto slack invitation via email to user who submitted a gravity form. 
 * [Wrap form fields in Gravity Forms](https://wordpress.org/plugins/wrap-form-fields-in-gravity-forms/) - An add-on for Gravity Forms which allows you to wrap form items in a div with a custom class for styling purposes. Supports conditional statements.
 * [Gravity Pre-submission Confirmation](https://wordpress.org/plugins/gravity-pre-submission-confirmation/) - This is an easy way to add a quick pre-submission confirmation page to your forms where users can preview the information entered in the form before they submit it. 
