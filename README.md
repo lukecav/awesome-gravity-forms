@@ -206,4 +206,5 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Privacy AddOn](https://wordpress.org/plugins/gf-privacy-addon/) - Plugin adding in Gravity form data to the Personal data section of WordPress.
 * [Gravity Forms Auto Complete](https://codecanyon.net/item/gravity-forms-autocomplete/19220825) - This plugin is an add-on for Gravity Forms that enables a field autocomplete feature. 
 * [Gravity Forms Fields Persistence](https://wordpress.org/plugins/gf-fields-persistence/) - Adds persistence to the Gravity Forms fields, so inputs will be saved in order to use it in other forms. This will improve user experience and boost your goals.
-* [Facebook Tracking Pixel for Gravity Forms](https://wordpress.org/plugins/gf-facebook-pixel-tracking/) - Add event tracking to your Gravity Forms with ease using Facebook Pixel Tracking.
+* [Facebook Tracking Pixel for Gravity Forms](https://wordpress.org/plugins/gf-facebook-pixel-tracking/) - Add event tracking to your Gravity Form
+* [Styler for Gravity Forms](https://wordpress.org/plugins/styler-for-gravity-forms/) - Provide Gravity Forms styling options in customizer.
