@@ -209,3 +209,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Facebook Tracking Pixel for Gravity Forms](https://wordpress.org/plugins/gf-facebook-pixel-tracking/) - Add event tracking to your Gravity Form
 * [Styler for Gravity Forms](https://wordpress.org/plugins/styler-for-gravity-forms/) - Provide Gravity Forms styling options in customizer.
 * [Spark GF Failed Submissions](https://wordpress.org/plugins/spark-gf-failed-submissions/) - Track failed form submissions and get notified when they reach a customisable threshold. Requires Gravity Forms.
+* [Delayed notifications for Gravity Forms](https://github.com/zewlak/delayed-notifications-for-gravity-forms) - Add-on for Gravity Forms to send delayed notifications.
