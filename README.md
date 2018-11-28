@@ -211,4 +211,5 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Spark GF Failed Submissions](https://wordpress.org/plugins/spark-gf-failed-submissions/) - Track failed form submissions and get notified when they reach a customisable threshold. Requires Gravity Forms.
 * [Delayed notifications for Gravity Forms](https://github.com/zewlak/delayed-notifications-for-gravity-forms) - Add-on for Gravity Forms to send delayed notifications.
 * [Connect EmailOctopus and Gravity Forms](https://wordpress.org/plugins/connect-eo-gf/) - EmailOctopus add-on for Gravity Forms.
-* [Upload to Envira from Gravity Forms](https://wordpress.org/plugins/upload-to-envira-via-gravity-forms/) -Attaches photos posted in a Gravity Form to a selected Envira Gallery.
+* [Upload to Envira from Gravity Forms](https://wordpress.org/plugins/upload-to-envira-via-gravity-forms/) - Attaches photos posted in a Gravity Form to a selected Envira Gallery.
+* [Gravity Forms ClinchPad CRM Add-On](https://wordpress.org/plugins/gowp-gravity-forms-clinchpad-crm/) - Integrate Gravity Forms with ClinchPad CRM.
