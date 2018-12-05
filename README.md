@@ -213,3 +213,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Connect EmailOctopus and Gravity Forms](https://wordpress.org/plugins/connect-eo-gf/) - EmailOctopus add-on for Gravity Forms.
 * [Upload to Envira from Gravity Forms](https://wordpress.org/plugins/upload-to-envira-via-gravity-forms/) - Attaches photos posted in a Gravity Form to a selected Envira Gallery.
 * [Gravity Forms ClinchPad CRM Add-On](https://wordpress.org/plugins/gowp-gravity-forms-clinchpad-crm/) - Integrate Gravity Forms with ClinchPad CRM.
+* [Integration for Salsa Engage and Gravity Forms](https://wordpress.org/plugins/gf-engage-add-on/) - Integrates Gravity Forms with Salsa Labs' Engage CRM, allowing form submissions to automatically create/update Supporters
