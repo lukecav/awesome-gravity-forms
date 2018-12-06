@@ -214,3 +214,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Upload to Envira from Gravity Forms](https://wordpress.org/plugins/upload-to-envira-via-gravity-forms/) - Attaches photos posted in a Gravity Form to a selected Envira Gallery.
 * [Gravity Forms ClinchPad CRM Add-On](https://wordpress.org/plugins/gowp-gravity-forms-clinchpad-crm/) - Integrate Gravity Forms with ClinchPad CRM.
 * [Integration for Salsa Engage and Gravity Forms](https://wordpress.org/plugins/gf-engage-add-on/) - Integrates Gravity Forms with Salsa Labs' Engage CRM, allowing form submissions to automatically create/update Supporters.
+* [Multi Page Auto Advance for Gravity Forms](https://wordpress.org/plugins/auto-advance-for-gravity-forms/) - The Auto Advance plugin for Gravity Forms makes the form filling process quicker and more user friendly for visitors. The plugin gives an easy way to choose which field(s) trigger an auto advance to the next step of your form.
