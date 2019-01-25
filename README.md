@@ -220,3 +220,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [GF Limit Payments](https://wordpress.org/plugins/gf-limit-payments/) - End subscription payments after a certain number of payments.
 * [Paytm Gravity Forms](https://wordpress.org/plugins/paytm-gravity-forms/) - This plugin allows you to accept payments using Paytm. After setup configuration with Payment Form.
 * [MyChoice2Pay Gravity Forms Add-on](https://wordpress.org/plugins/mc2p-gravityforms-addon/) - Gravity Forms library for the MyChoice2Pay API.
+* [Gravity Forms Braintree Payments](https://wordpress.org/plugins/angelleye-gravity-forms-braintree/) - Allow your customers to purchase goods and services through Gravity Forms via Braintree Payments.
