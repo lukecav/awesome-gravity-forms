@@ -222,3 +222,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [MyChoice2Pay Gravity Forms Add-on](https://wordpress.org/plugins/mc2p-gravityforms-addon/) - Gravity Forms library for the MyChoice2Pay API.
 * [Gravity Forms Braintree Payments](https://wordpress.org/plugins/angelleye-gravity-forms-braintree/) - Allow your customers to purchase goods and services through Gravity Forms via Braintree Payments.
 * [Integrate GravityView With Polylang](https://wordpress.org/plugins/integrate-gravityview-with-polylang/) - This is extreamly simple plugin to enable translations of GravityView Labels.
+* [GF Stripe Extensions](https://wordpress.org/plugins/gf-stripe-extensions/) - Add Stripe functions to Wordpress (Apple Pay) including limit payments and payment recovery to Gravity Forms.
