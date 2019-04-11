@@ -226,3 +226,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Logic Hop Personalization for Gravity Forms Add-on](https://wordpress.org/plugins/logic-hop-personalization-for-gravity-forms-add-on/) - The Logic Hop Personalization for Gravity Forms Add-on brings the power of personalization to WordPress with Gravity Forms.
 * [GF WorldPay](https://github.com/ItinerisLtd/gf-worldpay) - WorldPay payment gateway for Gravity Forms.
 * [Gravity Forms Confirmation Page List](https://wordpress.org/plugins/gf-confirmation-page-list/) - Display Confirmation Page of each Gravity Forms.
+* [WP fail2ban – Gravity Forms](https://wordpress.org/plugins/wp-fail2ban-addon-gravity-forms/) - Integration with Gravity Forms - log spam form submissions.
