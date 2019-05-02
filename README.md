@@ -230,3 +230,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [EngageBay for Gravity Forms](https://wordpress.org/plugins/engagebay-gravity-forms/) - EngageBay Gravity Forms integration plugin for gravity forms. Sync form entries to my website easily.
 * [Gravity Forms HubSpot](https://wordpress.org/plugins/gf-hubspot/) - Integrates Gravity Forms with HubSpot allowing form submissions to be automatically sent to your HubSpot account.
 * [Gravity Forms Dynamics CRM](https://wordpress.org/plugins/gf-dynamics-crm/) - Integrates Gravity Forms with Dynamics allowing form submissions to be automatically sent to your Dynamics account.
+* [Gravity Forms Zendesk](https://wordpress.org/plugins/gf-zendesk/) - Integrates Gravity Forms with Zendesk allowing form submissions to be automatically sent to your Zendesk account.
