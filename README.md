@@ -232,3 +232,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Dynamics CRM](https://wordpress.org/plugins/gf-dynamics-crm/) - Integrates Gravity Forms with Dynamics allowing form submissions to be automatically sent to your Dynamics account.
 * [Gravity Forms Zendesk](https://wordpress.org/plugins/gf-zendesk/) - Integrates Gravity Forms with Zendesk allowing form submissions to be automatically sent to your Zendesk account.
 * [WP Gravity Forms Insightly](https://wordpress.org/plugins/gf-insightly/) - Integrates Gravity Forms with Insightly allowing form submissions to be automatically sent to your Insightly account.
+* [Gravity Forms Block Email Domains](https://wordpress.org/plugins/gf-block-email-domains/) - Easily set a list of email domains to block on email fields in Gravity Forms.
