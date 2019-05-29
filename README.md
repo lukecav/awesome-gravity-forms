@@ -235,3 +235,5 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 * [Gravity Forms Block Email Domains](https://wordpress.org/plugins/gf-block-email-domains/) - Easily set a list of email domains to block on email fields in Gravity Forms.
 * [GF Email Validator](https://wpfejleszto.com/termek/gf-email-validator/) - 
 GravityForms addon. With real-time email validation and disposable mail filtering, you get rid of bad email addresses.
+* [Nutshell Gravity Forms WordPress Plugin](hhttps://wordpress.org/plugins/wp-gf-nutshell/) - 
+The plugin creates Nutshell entries form GravityForms submissions.
