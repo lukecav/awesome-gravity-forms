@@ -237,3 +237,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 GravityForms addon. With real-time email validation and disposable mail filtering, you get rid of bad email addresses.
 * [Nutshell Gravity Forms WordPress Plugin](hhttps://wordpress.org/plugins/wp-gf-nutshell/) - 
 The plugin creates Nutshell entries form GravityForms submissions.
+* [PDF Builder for Gravity](https://wordpress.org/plugins/pdf-builder-for-gravity/) - Design your own pdf in seconds with the first and only drag and drop builder. No coding experience required.
