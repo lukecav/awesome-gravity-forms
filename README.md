@@ -238,3 +238,4 @@ GravityForms addon. With real-time email validation and disposable mail filterin
 * [Nutshell Gravity Forms WordPress Plugin](hhttps://wordpress.org/plugins/wp-gf-nutshell/) - 
 The plugin creates Nutshell entries form GravityForms submissions.
 * [PDF Builder for Gravity](https://wordpress.org/plugins/pdf-builder-for-gravity/) - Design your own pdf in seconds with the first and only drag and drop builder. No coding experience required.
+* [WP SpreadSheets for Gravity Forms](https://wordpress.org/plugins/wp-gravity-forms-spreadsheets/) - Integrates Gravity Forms with Google Sheets allowing form submissions to be automatically sent to your Google Sheets. 
