@@ -242,3 +242,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [WP SpreadSheets for Gravity Forms](https://wordpress.org/plugins/wp-gravity-forms-spreadsheets/) - Integrates Gravity Forms with Google Sheets allowing form submissions to be automatically sent to your Google Sheets.
 - [FormSync](https://www.wpformsync.com) - Resolves tedious, manual form migrations by Git-ifying and syncing your forms across local, staging, and production environments. Simply update your forms locally, push the updated JSON files to a git repo, and sync your forms.
 - [Razorpay for Gravity Forms](https://wordpress.org/plugins/razorpay-gravity-forms/) - Integrates Gravity Forms with Razorpay Payments, enabling end users to purchase goods and services through Gravity Forms.
+- [IP Block for Gravity Forms](https://wordpress.org/plugins/gf-ip-block/) - Easily Block user IP as per Gravity Forms in entries within the WordPress admin.
