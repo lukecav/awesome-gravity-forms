@@ -244,3 +244,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [Razorpay for Gravity Forms](https://wordpress.org/plugins/razorpay-gravity-forms/) - Integrates Gravity Forms with Razorpay Payments, enabling end users to purchase goods and services through Gravity Forms.
 - [IP Block for Gravity Forms](https://wordpress.org/plugins/gf-ip-block/) - Easily Block user IP as per Gravity Forms in entries within the WordPress admin.
 - [WPComment Blacklist support for Gravity Forms](https://wordpress.org/plugins/wpcomment-blacklist-support-for-gravity-forms/) - This Plugin adds Comment Blacklist support to Gravity Forms.
+- [Gravity Forms: Multiple Form Instances Add On](https://wordpress.org/plugins/multiple-gf-form-on-single-page/) - Allows multiple instances of the same form to be run on a single page when using AJAX.
