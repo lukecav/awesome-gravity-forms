@@ -246,3 +246,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [WPComment Blacklist support for Gravity Forms](https://wordpress.org/plugins/wpcomment-blacklist-support-for-gravity-forms/) - This Plugin adds Comment Blacklist support to Gravity Forms.
 - [Gravity Forms: Multiple Form Instances Add On](https://wordpress.org/plugins/multiple-gf-form-on-single-page/) - Allows multiple instances of the same form to be run on a single page when using AJAX.
 - [Fresh Forms for Gravity](https://wordpress.org/plugins/fresh-forms-for-gravity/) - Prevent posts and pages with a Gravity Forms shortcode or Gutenberg block from being cached.
+- [Ohmylead Add-on Gravity Forms](https://wordpress.org/plugins/ohmylead-add-on-gravity-forms/) - Integrates Gravity Forms with Ohmylead, allowing form submissions to be automatically sent to your configured Sources.
