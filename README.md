@@ -20,6 +20,8 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [Gravity Forms Sticky List](https://wordpress.org/plugins/gravity-forms-sticky-list/) - Sticky List is an add-on for the WordPress plugin Gravity Forms that lets you list and edit entries from the front end.
 - [GravityView](https://gravityview.co/) - GravityView is the most simple and powerful way to display Gravity Forms entries on your website.
 - [Inline Edit by GravityView](https://gravityview.co/extensions/gravityview-inline-edit/) - Inline Edit is easiest and fastest way to edit Gravity Forms entries. GravityView not required.
+- [Gravity Forms Import Entries](https://gravityview.co/extensions/gravity-forms-entry-importer/) - The best way to import entries from a CSV into Gravity Forms.
+- [Gravity Forms Calendar](https://gravityview.co/extensions/calendar/) - Display your Gravity Forms entries in a flexible calendar.
 - [Gravity Flow](https://gravityflow.io/) - Gravity Flow is a form-based workflow platform for WordPress based on Gravity Forms which allows users to implement complex workflow processes quickly and easily using simple drag and drop configuration.
 - [GF Chart](https://gfchart.com/) - GFChart is an extension to WordPress Gravity Forms. It empowers you to showcase a visual snapshot summary of form submissions - automatically.
 - [WP Raw HTML Form Importer for Gravity Forms](https://wordpress.org/plugins/better-raw-html-form-import-to-gravity-forms/) - Better Raw HTML Form Importer will give you a list of all inputs displayed in a table with editable label, name and value.
