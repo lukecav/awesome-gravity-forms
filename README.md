@@ -252,3 +252,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [GF Forms LeadsBridge Add-On](https://wordpress.org/plugins/gf-forms-leadsbridge-add-on/) - Submits Gravity Forms form data to LeadsBridge.
 - [Gravity Forms ACH Field Type](https://wordpress.org/plugins/gf-ach-field/) - Adds and ACH field type to Gravity Forms just like a credit card type field.
 - [Clone Gravity Form Entry](https://wordpress.org/plugins/clone-gravity-form-entry/) - Clone your gravity form entries with just one click event.
+- [G-Forms hCaptcha](https://wordpress.org/plugins/gf-hcaptcha/) - A new way to monetize your site traffic with the hCaptcha addon for Gravity Forms.
