@@ -254,3 +254,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [Clone Gravity Form Entry](https://wordpress.org/plugins/clone-gravity-form-entry/) - Clone your gravity form entries with just one click event.
 - [G-Forms hCaptcha](https://wordpress.org/plugins/gf-hcaptcha/) - A new way to monetize your site traffic with the hCaptcha addon for Gravity Forms.
 - [Zola CRM Add-on for Gravity Forms](https://wordpress.org/plugins/zola-crm-add-on-for-gravity-forms/) - Add-on for Gravity Forms to submit leads data to Zola CRM. Needs Gravity Forms to function. This plugin keeps track of where users where refered from and the pages the user visits within the site. Upon submission it is sent to your CRM account at Zola Suite. 
+- [q-invoice Mollie iDeal for Gravity Forms](https://wordpress.org/plugins/qinvoice-mollie-ideal-for-gravity-forms/) - Accept iDeal (and other) payments for your Gravity Forms.
