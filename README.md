@@ -261,3 +261,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [Integration for CardConnect and Gravity Forms](https://wordpress.org/plugins/integration-for-cardconnect-and-gravity-forms/) - Allows Gravity Forms to process payments using CardConnect's CardPointe gateway.
 - [Gravitizer - Gravity Forms Material UI Styler](https://codecanyon.net/item/gravitizer-gravity-forms-material-ui-styler/26570055) - Gravitizer lets you make your traditional looking Gravity Forms into Material UI design in single click.
 - [Send Form Entries To Telegram](https://wordpress.org/plugins/send-form-entries-to-telegram/) - Send GravityForms Entries To Telegram Chats.
+- [Add-On for Gravity Forms + Rejoiner](https://wordpress.org/plugins/gf-rejoiner/) - Integrate Gravity Forms with the Rejoiner platform.
