@@ -263,3 +263,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [Send Form Entries To Telegram](https://wordpress.org/plugins/send-form-entries-to-telegram/) - Send GravityForms Entries To Telegram Chats.
 - [Add-On for Gravity Forms + Rejoiner](https://wordpress.org/plugins/gf-rejoiner/) - Integrate Gravity Forms with the Rejoiner platform.
 - [Disposable Email Blocker - Gravity Forms](https://wordpress.org/plugins/disposable-email-blocker-gravityforms/) - Prevent From Submitting Any Disposable/Temporary Emails On Gravity Forms Forms.
+- [BCT for Gravity Forms](https://wordpress.org/plugins/bct-for-gravity-forms/) - Button Click Text is a really simple way for people using your form to see that your form is actually working when they push the submit button. The "click text" will change from the original submit text to anything you desire.
