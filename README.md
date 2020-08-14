@@ -266,3 +266,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [Integration for Gravity Forms and Pipedrive](https://wordpress.org/plugins/integration-for-gravity-forms-and-pipedrive/) - Integrates Gravity Forms with Pipedrive allowing form submissions to be automatically sent to your Pipedrive account.
 - [Field Helper for Gravity Forms](https://wordpress.org/plugins/field-helper-for-gravity-forms/) - Enables Gravity Forms users to set consistent, human-friendly field names for use in the Gravity Forms REST API.
 - [Easexport – Gravity Forms Scheduled Entries Export](https://wordpress.org/plugins/easexport-gravity-forms-scheduled-entries-export/) - Automatically export a CSV report of form entries attached and send it to your email.
+- [Gravitizer – Material UI Styler for Gravity Forms](https://wordpress.org/plugins/gravitizer-lite/) - Convert your traditional looking Gravity Forms into Material UI in one click.
