@@ -267,3 +267,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [Field Helper for Gravity Forms](https://wordpress.org/plugins/field-helper-for-gravity-forms/) - Enables Gravity Forms users to set consistent, human-friendly field names for use in the Gravity Forms REST API.
 - [Easexport – Gravity Forms Scheduled Entries Export](https://wordpress.org/plugins/easexport-gravity-forms-scheduled-entries-export/) - Automatically export a CSV report of form entries attached and send it to your email.
 - [Gravitizer – Material UI Styler for Gravity Forms](https://wordpress.org/plugins/gravitizer-lite/) - Convert your traditional looking Gravity Forms into Material UI in one click.
+- [BSK Gravity Forms Custom Validation](https://wordpress.org/plugins/bsk-gravity-forms-custom-validation/) - The plugin help you validate users input and let users submit right data on gravity forms form. Such as mobile phone number, age by date field, ZIP code etc.
