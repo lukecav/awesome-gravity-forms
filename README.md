@@ -271,3 +271,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [DateTime Field Add-On for Gravity Form](https://wordpress.org/plugins/gf-datetime-field-add-on/) - Add a datetime field for gravity form with an option for custom date time format.
 - [Modern Designs for Gravity Forms](https://wordpress.org/plugins/modern-designs-for-gravity-forms/) - Enables Modern Designs for Gravity Forms.
 - [Gragrid: Gravity Forms + SendGrid](https://wordpress.org/plugins/gragrid/) - Integrates Gravity Forms with SendGrid, allowing form submissions to be automatically sent to your SendGrid contact lists.
+- [Integrate SharpSpring and Gravity Forms](https://wordpress.org/plugins/integrate-sharpspring-and-gravity-forms/) - Integrates Gravity Forms with SharpSpring, allowing form submissions to be automatically sent to your SharpSpring account.
