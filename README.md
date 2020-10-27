@@ -273,3 +273,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [Modern Designs for Gravity Forms](https://wordpress.org/plugins/modern-designs-for-gravity-forms/) - Enables Modern Designs for Gravity Forms.
 - [Gragrid: Gravity Forms + SendGrid](https://wordpress.org/plugins/gragrid/) - Integrates Gravity Forms with SendGrid, allowing form submissions to be automatically sent to your SendGrid contact lists.
 - [Integrate SharpSpring and Gravity Forms](https://wordpress.org/plugins/integrate-sharpspring-and-gravity-forms/) - Integrates Gravity Forms with SharpSpring, allowing form submissions to be automatically sent to your SharpSpring account.
+- [Move Fields for Gravity Forms](https://wordpress.org/plugins/gf-move-fields/) - Fast Move Fields for Gravity Forms.
