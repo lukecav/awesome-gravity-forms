@@ -281,3 +281,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [Retrigger Notifications Gravity Forms](https://wordpress.org/plugins/retrigger-notifications-gravity-forms/) - Plugin allows to manually re-send data of a Gravity Forms entry to external API in case the data has not been sent correctly.
 - [Notification Attachments for Gravity Forms](https://wordpress.org/plugins/notification-attachments-for-gravity-forms/) - Send attachments in Gravity Forms Notification.
 - [Automizy Gravity Forms](https://wordpress.org/plugins/automizy-gravity-forms/) - Automizy connector for Gravity Forms.
+- [Easy Gravity Tooltip](https://wordpress.org/plugins/easy-gravity-tooltip/) - Easily attach tooltips to any field type in Gravity Forms.
