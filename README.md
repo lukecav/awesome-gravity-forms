@@ -280,3 +280,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [GravityCaptcha](https://wordpress.org/plugins/better-captcha-gravity-forms/) - GravityCaptcha is an easy, encrypted alternative to the frustrating Google Captcha. It adds a random math problem or word question to the end of your form. When a user enters the answer, it is compared to the answer on our external database.
 - [Retrigger Notifications Gravity Forms](https://wordpress.org/plugins/retrigger-notifications-gravity-forms/) - Plugin allows to manually re-send data of a Gravity Forms entry to external API in case the data has not been sent correctly.
 - [Notification Attachments for Gravity Forms](https://wordpress.org/plugins/notification-attachments-for-gravity-forms/) - Send attachments in Gravity Forms Notification.
+- [Automizy Gravity Forms](https://wordpress.org/plugins/automizy-gravity-forms/) - Automizy connector for Gravity Forms.
