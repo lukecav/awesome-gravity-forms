@@ -282,3 +282,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [Notification Attachments for Gravity Forms](https://wordpress.org/plugins/notification-attachments-for-gravity-forms/) - Send attachments in Gravity Forms Notification.
 - [Automizy Gravity Forms](https://wordpress.org/plugins/automizy-gravity-forms/) - Automizy connector for Gravity Forms.
 - [Easy Gravity Tooltip](https://wordpress.org/plugins/easy-gravity-tooltip/) - Easily attach tooltips to any field type in Gravity Forms.
+- [Smart phone field for Gravity Forms](https://wordpress.org/plugins/smart-phone-field-for-gravity-forms/) - This plugin adds countries flag with ip address on gravity form phone field.
