@@ -284,3 +284,4 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [Easy Gravity Tooltip](https://wordpress.org/plugins/easy-gravity-tooltip/) - Easily attach tooltips to any field type in Gravity Forms.
 - [Smart phone field for Gravity Forms](https://wordpress.org/plugins/smart-phone-field-for-gravity-forms/) - This plugin adds countries flag with ip address on gravity form phone field.
 - [Paystack Add-On for Gravity Forms](https://wordpress.org/plugins/paystack-add-on-for-gravity-forms/) - Integrates Gravity Forms with Paystack, enabling end users to purchase goods and services through Gravity Forms.
+- [click5 CRM add-on for Gravity Forms](https://wordpress.org/plugins/gf-add-on-by-click5/) - Seemingly integrate your Gravity Forms with click5 CRM.
