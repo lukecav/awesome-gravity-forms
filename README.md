@@ -287,3 +287,5 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [click5 CRM add-on for Gravity Forms](https://wordpress.org/plugins/gf-add-on-by-click5/) - Seemingly integrate your Gravity Forms with click5 CRM.
 - [Zibal Payment Gateway for Gravity Forms](https://wordpress.org/plugins/zibal-payment-gateway-for-gravity-forms/) - 
 Zibal Payment Gateway for Gravity Forms plugin adds the possibility of online and offline sales through the Zibal payment gateway to Gravity Forms plugin.
+- [WP Activity Log for Gravity Forms](https://wordpress.org/plugins/activity-log-gravity-forms/) - 
+A WP Activity Log plugin extension for Gravity Forms.
