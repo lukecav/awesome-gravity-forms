@@ -87,7 +87,7 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [Gravity Forms Mailerlite Add-On](https://codecanyon.net/item/gravity-forms-mailerlite-addon/17673452) - The Gravity Forms MailerLite Add-On gives you an easy way to integrate all of your online forms with the MailerLite email marketing service.
 - [GravityForms Multi Column](https://wordpress.org/plugins/gf-form-multicolumn/) - This plugin allows modification of Gravity Forms by splitting a form into columns. Columns are specified by creating 'starting' and 'closing' Section elements that surround other elements in the form.
 - [Gravity Forms Braintree Add-On](https://wordpress.org/plugins/gravity-forms-braintree/) - Allow your customers to purchase goods and services through Gravity Forms via Braintree Payments.
-- [Lastform](https://codecanyon.net/item/lastform-attractive-form-templates-addon-for-gravity-forms-wordpress-plugin/17870313) - Attractive form templates add-on for Gravity Forms.
+- [Lastform](https://lastform.com) - Typeform-like template add-on for Gravity Forms.
 - [Gravity Forms ACF Select Field Choices](https://codecanyon.net/item/gravity-forms-acf-select-field-choices/12252676) - Change the Gravity Forms select choices to the available ACF Select fields of the current post automatically.
 - [Double opt in for Gravity Forms](https://codecanyon.net/item/double-opt-in-for-gravity-forms/17809351) - Email address verification for Gravity Form's sender address.
 - [Gravity Forms: Multiple Form Instances](https://wordpress.org/plugins/gravity-forms-multiple-form-instances/) - Allows multiple instances of the same form to be run on a single page when using AJAX.
