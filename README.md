@@ -289,3 +289,5 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 Zibal Payment Gateway for Gravity Forms plugin adds the possibility of online and offline sales through the Zibal payment gateway to Gravity Forms plugin.
 - [WP Activity Log for Gravity Forms](https://wordpress.org/plugins/activity-log-gravity-forms/) - 
 A WP Activity Log plugin extension for Gravity Forms.
+- [PayFlexi Instalment Payment Gateway for Gravity Forms](https://wordpress.org/plugins/payflexi-instalment-payment-gateway-for-gravity-forms/) - 
+Integrates Gravity Forms with PayFlexi, enabling end users to purchase goods and services through Gravity Forms and pay in full or flexible instalments.
