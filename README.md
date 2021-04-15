@@ -291,3 +291,5 @@ Zibal Payment Gateway for Gravity Forms plugin adds the possibility of online an
 A WP Activity Log plugin extension for Gravity Forms.
 - [PayFlexi Instalment Payment Gateway for Gravity Forms](https://wordpress.org/plugins/payflexi-instalment-payment-gateway-for-gravity-forms/) - 
 Integrates Gravity Forms with PayFlexi, enabling end users to purchase goods and services through Gravity Forms and pay in full or flexible instalments.
+- [Search field for Gravity Forms](https://wordpress.org/plugins/search-field-for-gravity-forms/) - 
+Searches selected post types after a user types, displaying results below field.
