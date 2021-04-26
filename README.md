@@ -293,3 +293,5 @@ A WP Activity Log plugin extension for Gravity Forms.
 Integrates Gravity Forms with PayFlexi, enabling end users to purchase goods and services through Gravity Forms and pay in full or flexible instalments.
 - [Search field for Gravity Forms](https://wordpress.org/plugins/search-field-for-gravity-forms/) - 
 Searches selected post types after a user types, displaying results below field.
+- [PDF Importer for Gravity Forms](https://wordpress.org/plugins/pdf-importer-for-gravity/) - 
+Import a pdf and fill with with your form.
