@@ -295,3 +295,5 @@ Integrates Gravity Forms with PayFlexi, enabling end users to purchase goods and
 Searches selected post types after a user types, displaying results below field.
 - [PDF Importer for Gravity Forms](https://wordpress.org/plugins/pdf-importer-for-gravity/) - 
 Import a pdf and fill with with your form.
+- [Power Boost for Gravity Forms](https://wordpress.org/plugins/power-boost-for-gravity-forms/) - 
+Enhances the dashboard for Gravity Forms power users.
