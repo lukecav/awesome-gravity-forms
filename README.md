@@ -296,3 +296,4 @@ Searches selected post types after a user types, displaying results below field.
 - [PDF Importer for Gravity Forms](https://wordpress.org/plugins/pdf-importer-for-gravity/) - Import a pdf and fill with with your form.
 - [Power Boost for Gravity Forms](https://wordpress.org/plugins/power-boost-for-gravity-forms/) - Enhances the dashboard for Gravity Forms power users.
 - [Bulk Download for Gravity Forms](https://wordpress.org/plugins/bulk-download-for-gravity-forms/) - Bulk download all files from a Gravity Forms entry in one go.
+- [Marketing 360® Payments for Gravity Forms](https://wordpress.org/plugins/marketing-360-payments-for-gravity-forms/) - Integrates Marketing 360Â® Payments with Gravity Forms, enabling your customers to make safe and secure purchases through Gravity Forms. To get started: activate the plugin and connect to your Marketing 360 Payments account.
