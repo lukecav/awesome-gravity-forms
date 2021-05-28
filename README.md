@@ -297,3 +297,4 @@ Searches selected post types after a user types, displaying results below field.
 - [Power Boost for Gravity Forms](https://wordpress.org/plugins/power-boost-for-gravity-forms/) - Enhances the dashboard for Gravity Forms power users.
 - [Bulk Download for Gravity Forms](https://wordpress.org/plugins/bulk-download-for-gravity-forms/) - Bulk download all files from a Gravity Forms entry in one go.
 - [Marketing 360® Payments for Gravity Forms](https://wordpress.org/plugins/marketing-360-payments-for-gravity-forms/) - Integrates Marketing 360Â® Payments with Gravity Forms, enabling your customers to make safe and secure purchases through Gravity Forms. To get started: activate the plugin and connect to your Marketing 360 Payments account.
+- [List-Forms for Gravity](https://wordpress.org/plugins/list-forms-for-gravity/) - The “List-Forms for Gravity” plugin extends the capabilities of the standard Forms-List in the Admin Panel on the “Gravity Forms” page.
