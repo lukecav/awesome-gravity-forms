@@ -300,3 +300,4 @@ Searches selected post types after a user types, displaying results below field.
 - [List-Forms for Gravity](https://wordpress.org/plugins/list-forms-for-gravity/) - The “List-Forms for Gravity” plugin extends the capabilities of the standard Forms-List in the Admin Panel on the “Gravity Forms” page.
 - [Better Redirects for Gravity Forms](https://wordpress.org/plugins/better-redirects-for-gravity-forms/) - Avoids 404 errors in your form confirmation redirects. Specify your confirmation redirect URL with this plugin, and your confirmation redirects will never 404 again.
 - [Add Editor Role to Gravity Forms Registration](https://wordpress.org/plugins/gf-registration-for-editor-role/) - Show Gravity Form Registration for Editor role.
+- [FormsCRM](https://wordpress.org/plugins/formscrm/) - Connects Forms with CRM.
