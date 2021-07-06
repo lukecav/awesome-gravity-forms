@@ -301,3 +301,4 @@ Searches selected post types after a user types, displaying results below field.
 - [Better Redirects for Gravity Forms](https://wordpress.org/plugins/better-redirects-for-gravity-forms/) - Avoids 404 errors in your form confirmation redirects. Specify your confirmation redirect URL with this plugin, and your confirmation redirects will never 404 again.
 - [Add Editor Role to Gravity Forms Registration](https://wordpress.org/plugins/gf-registration-for-editor-role/) - Show Gravity Form Registration for Editor role.
 - [FormsCRM](https://wordpress.org/plugins/formscrm/) - Connects Forms with CRM.
+- [Qualpay Add-on for Gravity Forms](https://wordpress.org/plugins/qualpay-payment-for-gravity-forms/) - Qualpay for Gravity forms supports both one-time and subscription payments.  All customer payment data is collected in Qualpay's Level 1 PCI compliant Embedded Fields
