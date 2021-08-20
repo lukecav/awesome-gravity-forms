@@ -303,3 +303,4 @@ Searches selected post types after a user types, displaying results below field.
 - [FormsCRM](https://wordpress.org/plugins/formscrm/) - Connects Forms with CRM.
 - [Qualpay Add-on for Gravity Forms](https://wordpress.org/plugins/qualpay-payment-for-gravity-forms/) - Qualpay for Gravity forms supports both one-time and subscription payments.  All customer payment data is collected in Qualpay's Level 1 PCI compliant Embedded Fields
 - [Very Good Collection Add-On](https://wordpress.org/plugins/vgc-for-gravity-forms/) - Integrates Gravity Forms with Very Good Collection Payments, enabling end users to purchase goods and services through Gravity Forms.
+- [Beyond Pay for Gravity Forms](https://wordpress.org/plugins/beyond-pay-for-gravity-forms/) - Beyond Pay credit card payments with Gravity Forms.
