@@ -306,3 +306,4 @@ Searches selected post types after a user types, displaying results below field.
 - [Beyond Pay for Gravity Forms](https://wordpress.org/plugins/beyond-pay-for-gravity-forms/) - Beyond Pay credit card payments with Gravity Forms.
 - [GfDesigns](https://wordpress.org/plugins/gfdesigns/) - Gravity Forms Designs allows you to apply beautiful layouts and sleek designs to any form created with Gravity Forms on your website. Easily choose a style from the different options and see how your basic and unstyled forms transform into a beautiful and user friendly component without touching a single line of code.
 - [Not Active for Gravity Forms](https://wordpress.org/plugins/noactive-for-gravityforms/) - Displays a message that the Form is not Active, instead of a blank page.
+- [Integration of Zoho CRM and Gravity Forms](https://wordpress.org/plugins/integration-of-zoho-crm-and-gravity-forms/) - Sends Gravity Forms entries to Zoho CRM.
