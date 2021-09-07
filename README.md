@@ -309,3 +309,4 @@ Searches selected post types after a user types, displaying results below field.
 - [Integration of Zoho CRM and Gravity Forms](https://wordpress.org/plugins/integration-of-zoho-crm-and-gravity-forms/) - Sends Gravity Forms entries to Zoho CRM.
 - [Restrict Dates Add-On for Gravity Forms](https://wordpress.org/plugins/restrict-dates-add-on-for-gravity-forms/) - This plugin adds date restrict options on Gravity Forms datepicker field.
 - [Post Update Add-On – Gravity Forms](https://wordpress.org/plugins/post-update-addon-gravity-forms/) - Update/Edit a post or a custom post type with Gravity Forms.
+- [Multi Uploader for Gravity Forms](https://wordpress.org/plugins/gf-multi-uploader/) - Multiple file uploader and editor with advanced options for Gravity Forms plugin.
