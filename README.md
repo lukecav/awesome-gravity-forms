@@ -315,3 +315,4 @@ Searches selected post types after a user types, displaying results below field.
 - [MWB GF Integration With Mautic](https://wordpress.org/plugins/mwb-gf-integration-with-mautic/) - This plugin integrates your Mautic account with GF, sending all data over Mautic as per its available modules.
 - [MWB GF Integration with EngageBay](https://wordpress.org/plugins/mwb-gf-integration-with-engagebay/) - MWB GF Integration with Engagebay plugin allows the admin to associate Gravity Forms fields with Engagebay modules. and sends all data over to the connected Engagebay account and creates contacts, tasks, companies etc.
 - [Quantity Field for Gravity Form](https://wordpress.org/plugins/quantity-field-for-gravity-form/) - A simple add-on to add quantity field type to Gravity Form.
+- [Gravity Forms Live Summary](https://wordpress.org/plugins/live-summary-for-gravity-forms/) - A simple add-on to add quantity field type to Gravity Form.
