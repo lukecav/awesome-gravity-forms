@@ -319,3 +319,4 @@ Searches selected post types after a user types, displaying results below field.
 - [Kitchen.co – Gravity Forms Add-on](https://wordpress.org/plugins/kitchen-co-gravity-forms-add-on/) - Kitchen.co add-on for Gravity Forms automatically creates project conversations in your Kitchen workspace after a Gravity Form submissions on your website.
 - [Add-on for Gravity Forms + Bento](https://wordpress.org/plugins/add-on-gravity-forms-bento/) - Community plugin to integrate Gravity Forms with Bento.
 - [Rest API For Cross Platform Support with Gravity Forms](https://wordpress.org/plugins/gf-rest-api-for-cross-platform/) - Create Rest API to save form data from cross platform to gravity forms in WordPress.
+- [Add on for Sendinblue on Gravity Forms](https://wordpress.org/plugins/gf-sendinblue/) - Add on for Sendinblue on Gravity Forms.
