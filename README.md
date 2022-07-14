@@ -320,3 +320,4 @@ Searches selected post types after a user types, displaying results below field.
 - [Add-on for Gravity Forms + Bento](https://wordpress.org/plugins/add-on-gravity-forms-bento/) - Community plugin to integrate Gravity Forms with Bento.
 - [Rest API For Cross Platform Support with Gravity Forms](https://wordpress.org/plugins/gf-rest-api-for-cross-platform/) - Create Rest API to save form data from cross platform to gravity forms in WordPress.
 - [Add on for Sendinblue on Gravity Forms](https://wordpress.org/plugins/gf-sendinblue/) - Add on for Sendinblue on Gravity Forms.
+- [LeadBoxer for Gravity Forms](https://wordpress.org/plugins/leadboxer-gravityforms/) - This add-on allows you to easily capture form submits from the Gravity Forms plugin into LeadBoxer.
