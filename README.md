@@ -321,3 +321,4 @@ Searches selected post types after a user types, displaying results below field.
 - [Rest API For Cross Platform Support with Gravity Forms](https://wordpress.org/plugins/gf-rest-api-for-cross-platform/) - Create Rest API to save form data from cross platform to gravity forms in WordPress.
 - [Add on for Sendinblue on Gravity Forms](https://wordpress.org/plugins/gf-sendinblue/) - Add on for Sendinblue on Gravity Forms.
 - [LeadBoxer for Gravity Forms](https://wordpress.org/plugins/leadboxer-gravityforms/) - This add-on allows you to easily capture form submits from the Gravity Forms plugin into LeadBoxer.
+- [Custom Error Messages for GravityForms](https://wordpress.org/plugins/custom-error-messages-for-gravityforms/) - Adds custom error messages to GravityForms inputs.
