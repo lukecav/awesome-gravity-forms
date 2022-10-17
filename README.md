@@ -324,3 +324,4 @@ Searches selected post types after a user types, displaying results below field.
 - [Custom Error Messages for GravityForms](https://wordpress.org/plugins/custom-error-messages-for-gravityforms/) - Adds custom error messages to GravityForms inputs.
 - [Invitation Codes: Gravity Forms Add-on](https://wordpress.org/plugins/invitation-codes-gravityforms-add-on/) - A simple Gravity Form add-on to enable WordPress users to specify invitation codes on Gravity forms.
 - [LianaMailer for Gravity Forms](https://wordpress.org/plugins/lianamailer-gf/) - LianaMailer for Gravity Forms is an integration plugin for a Gravity Forms plugin which integrates LianaMailer into Gravity Forms.
+- [Auto Coupon Generate for Gravity Forms](https://wordpress.org/plugins/gf-auto-coupon-generate/) - Allow users to create their own custom Coupon code for the Gravity forms.
