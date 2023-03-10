@@ -327,3 +327,4 @@ Searches selected post types after a user types, displaying results below field.
 - [Auto Coupon Generate for Gravity Forms](https://wordpress.org/plugins/gf-auto-coupon-generate/) - Allow users to create their own custom Coupon code for the Gravity forms.
 - [Hero for Gravity Forms](https://wordpress.org/plugins/gf-hero/) - Hero is an add-on to Gravity Forms which provides essential features and adds extra functionality.
 - [Pronamic Pay with Mollie for Gravity Forms](https://wordpress.org/plugins/pronamic-pay-with-mollie-for-gravity-forms/) - Pronamic Pay with Mollie for Gravity Forms.
+- [Enable Turnstile (Cloudflare) for Gravity Forms](https://wordpress.org/plugins/enable-turnstile-cloudflare-for-gravity-forms/) - A lightweight plugin to enable Cloudflare's Turnstile CAPTCHA alternative on your Gravity Forms.
