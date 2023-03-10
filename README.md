@@ -326,3 +326,4 @@ Searches selected post types after a user types, displaying results below field.
 - [LianaMailer for Gravity Forms](https://wordpress.org/plugins/lianamailer-gf/) - LianaMailer for Gravity Forms is an integration plugin for a Gravity Forms plugin which integrates LianaMailer into Gravity Forms.
 - [Auto Coupon Generate for Gravity Forms](https://wordpress.org/plugins/gf-auto-coupon-generate/) - Allow users to create their own custom Coupon code for the Gravity forms.
 - [Hero for Gravity Forms](https://wordpress.org/plugins/gf-hero/) - Hero is an add-on to Gravity Forms which provides essential features and adds extra functionality.
+- [Pronamic Pay with Mollie for Gravity Forms](https://wordpress.org/plugins/pronamic-pay-with-mollie-for-gravity-forms/) - Pronamic Pay with Mollie for Gravity Forms.
