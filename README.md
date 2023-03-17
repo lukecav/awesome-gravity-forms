@@ -329,3 +329,4 @@ Searches selected post types after a user types, displaying results below field.
 - [Pronamic Pay with Mollie for Gravity Forms](https://wordpress.org/plugins/pronamic-pay-with-mollie-for-gravity-forms/) - Pronamic Pay with Mollie for Gravity Forms.
 - [Enable Turnstile (Cloudflare) for Gravity Forms](https://wordpress.org/plugins/enable-turnstile-cloudflare-for-gravity-forms/) - A lightweight plugin to enable Cloudflare's Turnstile CAPTCHA alternative on your Gravity Forms.
 - [Better Address for Gravity Forms](https://rocketapps.com.au/product/better-address-for-gravity-forms/) - Allows you to easily include States, Provinces, Regions and more into the address fields in Gravity Forms.
+- [Add-On for Microsoft Teams and Gravity Forms](https://wordpress.org/plugins/gf-msteams/)) - Send Gravity Form entries to Microsoft Teams channel.
