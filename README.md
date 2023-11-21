@@ -331,3 +331,4 @@ Searches selected post types after a user types, displaying results below field.
 - [Better Address for Gravity Forms](https://rocketapps.com.au/product/better-address-for-gravity-forms/) - Allows you to easily include States, Provinces, Regions and more into the address fields in Gravity Forms.
 - [Add-On for Microsoft Teams and Gravity Forms](https://wordpress.org/plugins/gf-msteams/) - Send Gravity Form entries to Microsoft Teams channel.
 - [Add-On for Discord and Gravity Forms](https://wordpress.org/plugins/gf-discord/) - Send Gravity Form entries to a Discord channel.
+- [Omnisend for Gravity Forms Add-On](https://wordpress.org/plugins/omnisend-for-gravity-forms-add-on/) - A gravity forms add-on to sync contacts with Omnisend. In collaboration with Omnisend for WooCommerce plugin it enables better customer tracking.
