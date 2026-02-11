@@ -263,3 +263,12 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [Send Form Entries To Telegram](https://wordpress.org/plugins/send-form-entries-to-telegram/) - Send GravityForms Entries To Telegram Chats.
 - [Add-On for Gravity Forms + Rejoiner](https://wordpress.org/plugins/gf-rejoiner/) - Integrate Gravity Forms with the Rejoiner platform.
 - [Disposable Email Blocker - Gravity Forms](https://wordpress.org/plugins/disposable-email-blocker-gravityforms/) - Prevent From Submitting Any Disposable/Temporary Emails On Gravity Forms Forms.
+- [Global Search for Gravity Forms](https://oddjar.com/wordpress-plugins/global-search-for-gravity-forms/) - Cross-form entry search for Gravity Forms admin.
+- [Form Analytics Pro for Gravity Forms](https://oddjar.com/wordpress-plugins/form-analytics-pro-for-gravity-forms/) - Zero-config form conversion tracking for Gravity Forms.
+- [List Form Pages for Gravity Forms](https://oddjar.com/wordpress-plugins/list-form-pages-for-gravity-forms/) - Shows where each Gravity Forms form is embedded across your site.
+- [Field Sync for Gravity Forms](https://oddjar.com/wordpress-plugins/field-sync-for-gravity-forms/) - Synchronize field data across Gravity Forms entries.
+- [Loom for Gravity Forms](https://oddjar.com/wordpress-plugins/loom-for-gravity-forms-2/) - Add Loom video recording directly to Gravity Forms fields.
+- [Gist for Gravity Forms](https://oddjar.com/wordpress-plugins/gist-for-gravity-forms/) - Submit Gravity Forms entry data to GitHub Gists.
+- [Product Field for SureCart & Gravity Forms](https://oddjar.com/wordpress-plugins/product-field-for-surecart-gravity-forms/) - E-commerce bridge between SureCart products and Gravity Forms.
+- [User Registration Block for Gravity Forms](https://oddjar.com/wordpress-plugins/user-registration-block-for-gravity-forms/) - Free block editor registration form for Gravity Forms User Registration.
+- [List User Entries for Gravity Forms](https://oddjar.com/wordpress-plugins/list-user-entries-for-gravity-forms/) - Frontend entry display for logged-in users.
